@@ -1,0 +1,588 @@
+{
+  "level1": [
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-01",
+      "img": "F-01",
+      "before": "Auf dem Bild sehe ich",
+      "after": ".",
+      "correct": "einen Park",
+      "givenWord": "der Park (maskulin)",
+      "hint": "sehe ich + Akkusativ: der Park -> einen Park"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "ex-l1-02",
+      "img": "F-01",
+      "question": "Links ___ ein Mann auf einer Bank.",
+      "options": ["steht", "sitzt", "liegt", "geht"],
+      "correctIndex": 1,
+      "explanation": "Person auf einer Bank -> sitzt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-03",
+      "img": "F-01",
+      "before": "Im Mittelpunkt",
+      "after": "eine Frau mit einem Kind.",
+      "correct": "geht",
+      "givenWord": "gehen (Bewegung)",
+      "hint": "Die Frau bewegt sich -> geht"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "ex-l1-04",
+      "img": "F-01",
+      "question": "Rechts ___ ein Mädchen Fahrrad.",
+      "options": ["geht", "sitzt", "fährt", "steht"],
+      "correctIndex": 2,
+      "explanation": "Mit dem Fahrrad -> fährt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-05",
+      "img": "F-01",
+      "before": "Im Vordergrund",
+      "after": "ein brauner Hund auf dem Gras.",
+      "correct": "liegt",
+      "givenWord": "liegen (horizontal)",
+      "hint": "Tier auf dem Boden, horizontal -> liegt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-06",
+      "img": "F-01",
+      "before": "Neben",
+      "after": "Bank steht ein großer Baum.",
+      "correct": "der",
+      "givenWord": "die Bank (feminin)",
+      "hint": "die Bank (feminin) -> Dativ = der"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-07",
+      "img": "F-01",
+      "before": "Im Hintergrund ist ein Teich. Auf",
+      "after": "Teich schwimmen Enten.",
+      "correct": "dem",
+      "givenWord": "der Teich (maskulin)",
+      "hint": "der Teich (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-08",
+      "img": "F-01",
+      "before": "Unter",
+      "after": "Baum liegt der Hund.",
+      "correct": "dem",
+      "givenWord": "der Baum (maskulin)",
+      "hint": "der Baum (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-09",
+      "img": "F-01",
+      "before": "Der Mann trägt",
+      "after": "Jacke.",
+      "correct": "eine blaue",
+      "givenWord": "die blaue Jacke",
+      "hint": "trägt + Akk.: die blaue Jacke -> eine blaue"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-10",
+      "img": "F-01",
+      "before": "Das Kind hat",
+      "after": "Kleid an.",
+      "correct": "ein gelbes",
+      "givenWord": "das gelbe Kleid",
+      "hint": "hat ... an + Akk.: das gelbe Kleid -> ein gelbes"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "ex-l1-11",
+      "img": "F-01",
+      "question": "Der Mann sieht ___ aus.",
+      "options": ["jung", "älter", "klein", "traurig"],
+      "correctIndex": 1,
+      "explanation": "Der Mann auf der Bank ist älter (mittleres Alter)."
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-12",
+      "img": "F-02",
+      "before": "Das Bild zeigt",
+      "after": ".",
+      "correct": "eine Küche",
+      "givenWord": "die Küche (feminin)",
+      "hint": "zeigt + Akk.: die Küche -> eine Küche"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "ex-l1-13",
+      "img": "F-02",
+      "question": "Rechts ___ eine Frau am Herd.",
+      "options": ["sitzt", "liegt", "steht", "hängt"],
+      "correctIndex": 2,
+      "explanation": "Person aufrecht an einem Ort -> steht"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-14",
+      "img": "F-02",
+      "before": "Links",
+      "after": "ein Mann am Tisch.",
+      "correct": "sitzt",
+      "givenWord": "sitzen (auf Stuhl)",
+      "hint": "Person am Tisch -> sitzt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-15",
+      "img": "F-02",
+      "before": "Rechts",
+      "after": "ein Junge auf einem Hocker.",
+      "correct": "sitzt",
+      "givenWord": "sitzen (auf Hocker)",
+      "hint": "Person auf Hocker -> sitzt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-16",
+      "img": "F-02",
+      "before": "Unter",
+      "after": "Tisch liegt eine Katze.",
+      "correct": "dem",
+      "givenWord": "der Tisch (maskulin)",
+      "hint": "der Tisch (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-17",
+      "img": "F-02",
+      "before": "Auf",
+      "after": "Tisch steht ein Laptop.",
+      "correct": "dem",
+      "givenWord": "der Tisch (maskulin)",
+      "hint": "der Tisch (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-18",
+      "img": "F-02",
+      "before": "Neben",
+      "after": "Herd steht die Frau.",
+      "correct": "dem",
+      "givenWord": "der Herd (maskulin)",
+      "hint": "der Herd (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-19",
+      "img": "F-02",
+      "before": "Die Frau trägt",
+      "after": "Schürze.",
+      "correct": "eine grüne",
+      "givenWord": "die grüne Schürze",
+      "hint": "trägt + Akk.: die grüne Schürze -> eine grüne"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l1-20",
+      "img": "F-02",
+      "before": "Der Mann trägt",
+      "after": "Pullover und eine Brille.",
+      "correct": "einen grauen",
+      "givenWord": "der graue Pullover",
+      "hint": "trägt + Akk.: der graue Pullover -> einen grauen"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "ex-l1-21",
+      "img": "F-02",
+      "question": "Die Frau sieht ___ aus.",
+      "options": ["älter", "müde", "jung", "traurig"],
+      "correctIndex": 2,
+      "explanation": "Die Frau am Herd sieht jung aus."
+    }
+  ],
+  "level2": [
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-01",
+      "img": "F-03",
+      "before": "Auf dem Bild sehe ich",
+      "after": ".",
+      "correct": "einen Markt",
+      "hint": "sehe ich + Akk. (der Markt -> ???)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-02",
+      "img": "F-03",
+      "before": "In der Mitte",
+      "after": "ein Verkäufer hinter einem Obststand.",
+      "correct": "steht",
+      "hint": "Person aufrecht -> welches Verb?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-03",
+      "img": "F-03",
+      "before": "Links",
+      "after": "eine alte Frau vor dem Stand.",
+      "correct": "steht",
+      "hint": "Person aufrecht, nicht in Bewegung"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-04",
+      "img": "F-03",
+      "before": "Rechts",
+      "after": "ein junger Mann mit einem Karton.",
+      "correct": "geht",
+      "hint": "Person in Bewegung -> welches Verb?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-05",
+      "img": "F-03",
+      "before": "Hinter",
+      "after": "Obststand steht der Verkäufer.",
+      "correct": "dem",
+      "hint": "der Obststand -> Dativ = ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-06",
+      "img": "F-03",
+      "before": "Neben",
+      "after": "Laterne lehnt ein Fahrrad.",
+      "correct": "der",
+      "hint": "die Laterne -> Dativ = ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l2-07",
+      "img": "F-03",
+      "wrongSentence": "Vor den Obststand steht die alte Frau.",
+      "correctSentence": "Vor dem Obststand steht die alte Frau.",
+      "errorHint": "vor + Dativ: den ist Akkusativ. Der Obststand (maskulin) -> Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-08",
+      "img": "F-03",
+      "before": "Der Verkäufer trägt",
+      "after": "Schürze und eine blaue Kappe.",
+      "correct": "eine braune",
+      "hint": "trägt + Akk.: die braune Schürze -> ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-09",
+      "img": "F-03",
+      "before": "Die alte Frau trägt",
+      "after": "Mantel.",
+      "correct": "einen grünen",
+      "hint": "trägt + Akk.: der grüne Mantel -> ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l2-10",
+      "img": "F-03",
+      "wrongSentence": "Der Verkäufer sieht freundlichen aus.",
+      "correctSentence": "Der Verkäufer sieht freundlich aus.",
+      "errorHint": "sieht ... aus + Adjektiv OHNE Deklination (prädikativ)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-11",
+      "img": "F-04",
+      "before": "Das Bild zeigt",
+      "after": ".",
+      "correct": "ein Wohnzimmer",
+      "hint": "zeigt + Akk. (das Wohnzimmer -> ???)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-12",
+      "img": "F-04",
+      "before": "Auf dem Sofa",
+      "after": "eine Frau und ein Mann.",
+      "correct": "sitzen",
+      "hint": "Zwei Personen auf dem Sofa (Plural!)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-13",
+      "img": "F-04",
+      "before": "Links",
+      "after": "ein Bücherregal.",
+      "correct": "steht",
+      "hint": "Hohes Möbelstück -> welches Verb?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-14",
+      "img": "F-04",
+      "before": "Auf der Fensterbank",
+      "after": "eine Katze.",
+      "correct": "sitzt",
+      "hint": "Tier auf einem Platz -> welches Verb?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-15",
+      "img": "F-04",
+      "before": "Über",
+      "after": "Sofa hängt ein großes Gemälde.",
+      "correct": "dem",
+      "hint": "das Sofa -> Dativ = ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-16",
+      "img": "F-04",
+      "before": "Neben",
+      "after": "Sofa steht eine Stehlampe.",
+      "correct": "dem",
+      "hint": "das Sofa -> Dativ = ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l2-17",
+      "img": "F-04",
+      "wrongSentence": "Auf die Fensterbank sitzt eine braune Katze.",
+      "correctSentence": "Auf der Fensterbank sitzt eine braune Katze.",
+      "errorHint": "Wo? (Ort) -> Dativ: die Fensterbank -> auf der Fensterbank"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-18",
+      "img": "F-04",
+      "before": "Die Frau trägt",
+      "after": "Bluse und liest ein Buch.",
+      "correct": "eine rote",
+      "hint": "trägt + Akk.: die rote Bluse -> ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l2-19",
+      "img": "F-04",
+      "before": "Der Mann trägt",
+      "after": "Poloshirt und eine Brille.",
+      "correct": "ein blaues",
+      "hint": "trägt + Akk.: das blaue Poloshirt -> ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l2-20",
+      "img": "F-04",
+      "wrongSentence": "Der Mann hält ein Fernbedienung in der Hand.",
+      "correctSentence": "Der Mann hält eine Fernbedienung in der Hand.",
+      "errorHint": "die Fernbedienung (feminin) -> Akk. = eine Fernbedienung"
+    }
+  ],
+  "level3": [
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-01",
+      "img": "F-05",
+      "parts": [
+        { "text": "sehe", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "ich", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Auf dem Bild", "color": "bg-[#d1c2d2]/10 text-[#d1c2d2]" },
+        { "text": "ein Klassenzimmer.", "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]" }
+      ],
+      "correctOrder": [2, 0, 1, 3],
+      "hint": "Auf dem Bild + Verb + Subjekt + Akkusativ-Objekt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-02",
+      "img": "F-05",
+      "before": "Vorne",
+      "after": "eine Lehrerin an einer weißen Tafel.",
+      "correct": "steht",
+      "hint": "Person aufrecht"
+    },
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-03",
+      "img": "F-05",
+      "parts": [
+        { "text": "sitzen", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "Links und rechts", "color": "bg-[#d1c2d2]/10 text-[#d1c2d2]" },
+        { "text": "an Tischen.", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "Schüler", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [1, 0, 3, 2],
+      "hint": "Position + Verb + Subjekt + Ort"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-04",
+      "img": "F-05",
+      "before": "Ein Schüler",
+      "after": "die Hand.",
+      "correct": "hebt",
+      "hint": "Was macht ein Schüler, der sich meldet?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-05",
+      "img": "F-05",
+      "before": "An",
+      "after": "Tafel steht die Lehrerin.",
+      "correct": "der",
+      "hint": "die Tafel -> Dativ = ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-06",
+      "img": "F-05",
+      "before": "Vor",
+      "after": "Schülern steht ein Laptop auf dem Tisch.",
+      "correct": "den",
+      "hint": "die Schüler (Plural) -> Dativ Plural = ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l3-07",
+      "img": "F-05",
+      "wrongSentence": "An die Wand hängt eine Europakarte.",
+      "correctSentence": "An der Wand hängt eine Europakarte.",
+      "errorHint": "Wo? -> Dativ: die Wand -> an der Wand"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-08",
+      "img": "F-05",
+      "before": "Die Lehrerin trägt",
+      "after": ".",
+      "correct": "einen grauen Blazer",
+      "hint": "der graue Blazer -> Akk. = einen grauen Blazer"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l3-09",
+      "img": "F-05",
+      "wrongSentence": "Der Schüler trägt ein grünes T-Shirt und hebt sein Hand.",
+      "correctSentence": "Der Schüler trägt ein grünes T-Shirt und hebt seine Hand.",
+      "errorHint": "Possessivartikel maskulin Akk.: sein Hand ist falsch, richtig ist seine Hand."
+    },
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-10",
+      "img": "F-05",
+      "parts": [
+        { "text": "freundlich", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "sieht", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "Die Lehrerin", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "aus.", "color": "bg-[#ffb870]/10 text-[#ffb870]" }
+      ],
+      "correctOrder": [2, 1, 0, 3],
+      "hint": "Subjekt + sieht + Adjektiv + aus"
+    },
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-11",
+      "img": "F-06",
+      "parts": [
+        { "text": "eine Cafe-Terrasse.", "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]" },
+        { "text": "Das Bild", "color": "bg-[#d1c2d2]/10 text-[#d1c2d2]" },
+        { "text": "zeigt", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [1, 2, 0],
+      "hint": "Subjekt + Verb + Akkusativ-Objekt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-12",
+      "img": "F-06",
+      "before": "In der Mitte",
+      "after": "ein Kellner mit einem Tablett.",
+      "correct": "geht",
+      "hint": "Der Kellner bewegt sich"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-13",
+      "img": "F-06",
+      "before": "Links",
+      "after": "eine Frau alleine an einem Tisch.",
+      "correct": "sitzt",
+      "hint": "Person an einem Tisch"
+    },
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-14",
+      "img": "F-06",
+      "parts": [
+        { "text": "eine Familie", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Rechts", "color": "bg-[#d1c2d2]/10 text-[#d1c2d2]" },
+        { "text": "an einem Tisch.", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "sitzt", "color": "bg-[#ffb870]/10 text-[#ffb870]" }
+      ],
+      "correctOrder": [1, 3, 0, 2],
+      "hint": "Position + Verb + Subjekt + Ort"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-15",
+      "img": "F-06",
+      "before": "Auf",
+      "after": "Tisch links stehen ein Buch und eine Tasse Kaffee.",
+      "correct": "dem",
+      "hint": "der Tisch -> Dativ = ?"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l3-16",
+      "img": "F-06",
+      "wrongSentence": "Über die Tische stehen rot-weiße Sonnenschirme.",
+      "correctSentence": "Über den Tischen stehen rot-weiße Sonnenschirme.",
+      "errorHint": "Wo? -> Dativ Plural: die Tische -> den Tischen"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-17",
+      "img": "F-06",
+      "before": "Neben",
+      "after": "Familie sitzt ein kleiner Spatz auf dem Boden.",
+      "correct": "der",
+      "hint": "die Familie -> Dativ = ?"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "ex-l3-18",
+      "img": "F-06",
+      "before": "Der Kellner trägt",
+      "after": "und eine schwarze Schürze.",
+      "correct": "ein weißes Hemd",
+      "hint": "das weiße Hemd -> Akk. = ein weißes Hemd"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "ex-l3-19",
+      "img": "F-06",
+      "wrongSentence": "Die Frau links trägt ein blaues Kleid und lest ein Buch.",
+      "correctSentence": "Die Frau links trägt ein blaues Kleid und liest ein Buch.",
+      "errorHint": "lesen -> er/sie liest (Vokalwechsel e -> ie)"
+    },
+    {
+      "type": "wordOrder",
+      "id": "ex-l3-20",
+      "img": "F-06",
+      "parts": [
+        { "text": "sieht", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "gemütlich", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Die Terrasse", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "aus.", "color": "bg-[#ffb870]/10 text-[#ffb870]" }
+      ],
+      "correctOrder": [2, 0, 1, 3],
+      "hint": "Subjekt + sieht + Adjektiv + aus"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "level1": [
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-01",
+      "img": "P1-01",
+      "before": "„Auf dem Bild sehe ich",
+      "after": ".“",
+      "correct": "eine Küche",
+      "givenWord": "die Küche",
+      "hint": "sehe ich + Akk. → die Küche bleibt: eine Küche"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-02",
+      "img": "P1-02",
+      "before": "„Auf dem Bild sehe ich",
+      "after": ".“",
+      "correct": "einen Park",
+      "givenWord": "der Park",
+      "hint": "sehe ich + Akk. → der Park wird: einen Park"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-03",
+      "img": "P1-03",
+      "before": "„Das Bild zeigt",
+      "after": ".“",
+      "correct": "ein Wohnzimmer",
+      "givenWord": "das Wohnzimmer",
+      "hint": "zeigt + Akk. → das Wohnzimmer bleibt: ein Wohnzimmer"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-04",
+      "img": "P1-02",
+      "before": "„Ich sehe ein Bild von",
+      "after": ".“",
+      "correct": "einem Park",
+      "givenWord": "der Park",
+      "hint": "von + Dat. → der Park wird: einem Park"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-05",
+      "img": "P1-04",
+      "before": "„Ich sehe ein Bild von",
+      "after": ".“",
+      "correct": "einer Geburtstagsfeier",
+      "givenWord": "die Geburtstagsfeier",
+      "hint": "von + Dat. → die Feier wird: einer Feier"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l1-06",
+      "img": "P1-05",
+      "before": "„Das ist ein Bild von",
+      "after": ".“",
+      "correct": "einem Strand",
+      "givenWord": "der Strand",
+      "hint": "von + Dat. → der Strand wird: einem Strand"
+    }
+  ],
+  "level2": [
+    {
+      "type": "multipleChoice",
+      "id": "p1-l2-01",
+      "img": "P1-06",
+      "question": "Du siehst ein Bild von einem Markt. Welcher Satz ist richtig?",
+      "options": [
+        "Auf dem Bild sehe ich einem Markt.",
+        "Ich sehe ein Bild von einem Markt.",
+        "Das Bild zeigt von einem Markt.",
+        "Ich sehe ein Bild von einen Markt."
+      ],
+      "correctIndex": 1,
+      "explanation": "„Ich sehe ein Bild von“ + Dativ = einem Markt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l2-02",
+      "img": "P1-07",
+      "before": "„Das Bild zeigt",
+      "after": ".“",
+      "correct": "eine Familie beim Essen",
+      "givenWord": "die Familie beim Essen",
+      "hint": "zeigt + Akk. → „eine Familie“ (feminin Akk. = keine Änderung)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l2-03",
+      "img": "P1-08",
+      "before": "„Das Bild zeigt",
+      "after": ".“",
+      "correct": "einen großen Spielplatz",
+      "givenWord": "der große Spielplatz",
+      "hint": "zeigt + Akk. → der große → einen großen"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l2-04",
+      "img": "P1-06",
+      "before": "„Man kann",
+      "after": "erkennen.“",
+      "correct": "viele Menschen auf einem Markt",
+      "givenWord": "viele Menschen auf einem Markt",
+      "alternatives": ["viele Menschen"],
+      "hint": "kann ... erkennen + Akk."
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p1-l2-05",
+      "img": "P1-01",
+      "before": "„Ich sehe ein Bild von",
+      "after": ".“",
+      "correct": "einer modernen Küche",
+      "givenWord": "die moderne Küche",
+      "hint": "von + Dat. → die moderne → einer modernen Küche"
+    }
+  ],
+  "level3": [
+    {
+      "type": "wordOrder",
+      "id": "p1-l3-01",
+      "img": "P1-05",
+      "parts": [
+        { "text": "sehe", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Auf dem Bild", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "einen Strand.", "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]" },
+        { "text": "ich", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [1, 0, 3, 2],
+      "hint": "Auf dem Bild + sehe + ich + Akkusativ"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p1-l3-02",
+      "img": "P1-09",
+      "parts": [
+        { "text": "von", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "einer Schule.", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "ein Bild", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Das ist", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [3, 2, 0, 1],
+      "hint": "Das ist + ein Bild + von + Dativ"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p1-l3-03",
+      "img": "P1-01",
+      "wrongSentence": "Auf dem Bild sehe ich einen Küche.",
+      "correctSentence": "Auf dem Bild sehe ich eine Küche.",
+      "errorHint": "die Küche ist feminin → Akkusativ = eine Küche (nicht einen!)"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p1-l3-04",
+      "img": "P1-05",
+      "wrongSentence": "Das ist ein Bild von ein Strand.",
+      "correctSentence": "Das ist ein Bild von einem Strand.",
+      "errorHint": "von + Dativ: der Strand → einem Strand"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p1-l3-05",
+      "img": "P1-02",
+      "wrongSentence": "Das Bild zeigt einem großen Park.",
+      "correctSentence": "Das Bild zeigt einen großen Park.",
+      "errorHint": "zeigt + Akkusativ (nicht Dativ!): der Park → einen großen Park"
+    }
+  ]
+}

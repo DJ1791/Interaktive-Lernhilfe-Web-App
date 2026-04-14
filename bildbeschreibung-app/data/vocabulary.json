@@ -1,0 +1,690 @@
+[
+  {
+    "id": "people",
+    "label": "Personen & soziale Kontakte",
+    "labelEN": "People & Social Contacts",
+    "icon": "👥",
+    "nomen": [
+      {
+        "word": "Frau",
+        "article": "die",
+        "plural": "die Frauen",
+        "beispiel": "Auf dem Bild sehe ich eine junge Frau, die auf dem Bauch liegt."
+      },
+      {
+        "word": "Mann",
+        "article": "der",
+        "plural": "die Männer",
+        "besonderheiten": "Dativ Plural: den Männern",
+        "beispiel": "Auf der linken Seite des Bildes sehe ich einen Mann, der im Garten arbeitet."
+      },
+      {
+        "word": "Kind",
+        "article": "das",
+        "plural": "die Kinder",
+        "besonderheiten": "Dativ Plural: den Kindern",
+        "beispiel": "Das kleine Kind schaut neugierig in die offene Waschmaschine."
+      },
+      {
+        "word": "Junge",
+        "article": "der",
+        "plural": "die Jungen",
+        "besonderheiten": "N-Deklination (Akk: den Jungen, Dat: dem Jungen, Gen: des Jungen)",
+        "beispiel": "Der ältere Junge steht auf der linken Seite und fegt den Boden."
+      },
+      {
+        "word": "Mädchen",
+        "article": "das",
+        "plural": "die Mädchen",
+        "beispiel": "Ein Mädchen trägt ein rosafarbenes T-Shirt und hilft beim Putzen."
+      },
+      {
+        "word": "Familie",
+        "article": "die",
+        "plural": "die Familien",
+        "beispiel": "Auf dem Bild sehe ich eine Familie, die zusammen die Hausarbeit erledigt."
+      },
+      {
+        "word": "Paar",
+        "article": "das",
+        "plural": "die Paare",
+        "beispiel": "Das glückliche Paar steht zusammen vor seinem Haus."
+      },
+      {
+        "word": "Person",
+        "article": "die",
+        "plural": "die Personen",
+        "beispiel": "Auf dem Bild sieht man eine Gruppe von sechs Personen."
+      },
+      {
+        "word": "Mensch",
+        "article": "der",
+        "plural": "die Menschen",
+        "beispiel": "Im Hintergrund sieht man weitere Menschen auf der Straße."
+      },
+      {
+        "word": "Kollege",
+        "article": "der",
+        "plural": "die Kollegen",
+        "besonderheiten": "N-Deklination (Akk: den Kollegen, Dat: dem Kollegen); Feminin: die Kollegin",
+        "beispiel": "Die Kollegen arbeiten gemeinsam an einem neuen Projekt."
+      },
+      {
+        "word": "Freundin",
+        "article": "die",
+        "plural": "die Freundinnen",
+        "besonderheiten": "Maskulin: der Freund",
+        "beispiel": "Die beiden Freundinnen sitzen gemeinsam auf dem Rand des Bettes."
+      },
+      {
+        "word": "Nachbar",
+        "article": "der",
+        "plural": "die Nachbarn",
+        "besonderheiten": "N-Deklination (Akk: einen Nachbarn, Dat: dem Nachbarn); Feminin: die Nachbarin",
+        "beispiel": "Der Mann spricht wahrscheinlich gerade mit seinem Nachbarn."
+      },
+      {
+        "word": "Gast",
+        "article": "der",
+        "plural": "die Gäste",
+        "besonderheiten": "Dativ Plural: den Gästen",
+        "beispiel": "Im Café sitzen viele gut gelaunte Gäste an den Tischen."
+      },
+      {
+        "word": "Gruppe",
+        "article": "die",
+        "plural": "die Gruppen",
+        "beispiel": "Eine Gruppe von vier Freunden unterhält sich sehr angeregt."
+      },
+      {
+        "word": "Tourist",
+        "article": "der",
+        "plural": "die Touristen",
+        "besonderheiten": "N-Deklination (Akk: den Touristen, Dat: dem Touristen); Feminin: die Touristin",
+        "beispiel": "Ich vermute, dass die beiden Touristen gerade im Hotel angekommen sind."
+      },
+      {
+        "word": "Kunde",
+        "article": "der",
+        "plural": "die Kunden",
+        "besonderheiten": "N-Deklination (Akk: den Kunden, Dat: dem Kunden); Feminin: die Kundin",
+        "beispiel": "Der Kunde interessiert sich für die neuen technischen Geräte im Laden."
+      },
+      {
+        "word": "Mechanikerin",
+        "article": "die",
+        "plural": "die Mechanikerinnen",
+        "besonderheiten": "Maskulin: der Mechaniker",
+        "beispiel": "Die Mechanikerin repariert hochkonzentriert das Vorderrad des Fahrrads."
+      },
+      {
+        "word": "Verkäuferin",
+        "article": "die",
+        "plural": "die Verkäuferinnen",
+        "besonderheiten": "Maskulin: der Verkäufer",
+        "beispiel": "Die Verkäuferin steht hinter dem Tresen und berät die Kunden."
+      },
+      {
+        "word": "Rezeptionistin",
+        "article": "die",
+        "plural": "die Rezeptionistinnen",
+        "besonderheiten": "Maskulin: der Rezeptionist",
+        "beispiel": "Die freundliche Rezeptionistin steht hinter dem Tresen und lächelt das Paar an."
+      },
+      {
+        "word": "Helferin",
+        "article": "die",
+        "plural": "die Helferinnen",
+        "besonderheiten": "Maskulin: der Helfer",
+        "beispiel": "Die junge Helferin bringt Lebensmittel vorbei."
+      },
+      {
+        "word": "Seniorin",
+        "article": "die",
+        "plural": "die Seniorinnen",
+        "besonderheiten": "Maskulin: der Senior",
+        "beispiel": "Die Seniorin im Vordergrund trägt einen rosa Pullover."
+      }
+    ],
+    "verben": [
+      {
+        "word": "sprechen",
+        "partizipII": "gesprochen",
+        "erSieEs": "spricht",
+        "besonderheiten": "Vokalwechsel: e → i",
+        "beispiel": "Die Frau am Whiteboard spricht gerade zu ihren Kollegen."
+      },
+      {
+        "word": "erklären",
+        "partizipII": "erklärt",
+        "erSieEs": "erklärt",
+        "beispiel": "Die Mitarbeiterin erklärt ein neues Konzept."
+      },
+      {
+        "word": "präsentieren",
+        "partizipII": "präsentiert",
+        "erSieEs": "präsentiert",
+        "beispiel": "Sie präsentiert die neuen Pläne für das Unternehmen."
+      },
+      {
+        "word": "zuhören",
+        "partizipII": "zugehört",
+        "erSieEs": "hört zu",
+        "besonderheiten": "Trennbar",
+        "beispiel": "Alle Kollegen hören der Präsentatorin aufmerksam zu."
+      },
+      {
+        "word": "besprechen",
+        "partizipII": "besprochen",
+        "erSieEs": "bespricht",
+        "besonderheiten": "Vokalwechsel: e → i",
+        "beispiel": "Die Kollegen besprechen die wichtigsten Punkte des Projekts."
+      },
+      {
+        "word": "diskutieren",
+        "partizipII": "diskutiert",
+        "erSieEs": "diskutiert",
+        "beispiel": "Die Teilnehmer diskutieren über die Ideen auf dem Plan."
+      },
+      {
+        "word": "sich unterhalten",
+        "partizipII": "unterhalten",
+        "erSieEs": "unterhält sich",
+        "besonderheiten": "Reflexiv; Vokalwechsel: a → ä",
+        "beispiel": "Die Gruppe unterhält sich angeregt über ein Thema."
+      },
+      {
+        "word": "helfen",
+        "partizipII": "geholfen",
+        "erSieEs": "hilft",
+        "besonderheiten": "Vokalwechsel: e → i",
+        "beispiel": "Die Kinder helfen ihrem Vater im Haushalt."
+      },
+      {
+        "word": "geben",
+        "partizipII": "gegeben",
+        "erSieEs": "gibt",
+        "besonderheiten": "Vokalwechsel: e → i",
+        "beispiel": "Die Frau gibt der Seniorin den Korb mit den Lebensmitteln."
+      },
+      {
+        "word": "bringen",
+        "partizipII": "gebracht",
+        "erSieEs": "bringt",
+        "beispiel": "Sie hat frisches Gemüse zum Haus der älteren Dame gebracht."
+      }
+    ],
+    "adjektive": [
+      {
+        "word": "freundlich",
+        "komparativ": "freundlicher",
+        "superlativ": "am freundlichsten",
+        "beispiel": "Die Atmosphäre im Meeting ist sehr entspannt und freundlich."
+      },
+      {
+        "word": "sympathisch",
+        "komparativ": "sympathischer",
+        "superlativ": "am sympathischsten",
+        "beispiel": "Die Frau hat ein sehr sympathisches Lächeln."
+      },
+      {
+        "word": "geduldig",
+        "komparativ": "geduldiger",
+        "superlativ": "am geduldigsten",
+        "beispiel": "Die Menschen in der Schlange sind sehr geduldig."
+      }
+    ]
+  },
+  {
+    "id": "body",
+    "label": "Körper & Aussehen",
+    "labelEN": "Body & Appearance",
+    "icon": "👤",
+    "nomen": [
+      { "word": "Kopf", "article": "der", "plural": "die Köpfe", "besonderheiten": "Dativ Plural: den Köpfen", "beispiel": "Mit der rechten Hand stützt die Frau ihren Kopf ab." },
+      { "word": "Hand", "article": "die", "plural": "die Hände", "besonderheiten": "Dativ Plural: den Händen", "beispiel": "Mit ihrer rechten Hand stützt sie ihren Kopf ab." },
+      { "word": "Finger", "article": "der", "plural": "die Finger", "besonderheiten": "Dativ Plural: den Fingern", "beispiel": "Er hat seine Finger zwischen den Seiten des Buches." },
+      { "word": "Arm", "article": "der", "plural": "die Arme", "beispiel": "Sein rechter Arm ist angewinkelt und ruht auf dem Kissen." },
+      { "word": "Bein", "article": "das", "plural": "die Beine", "beispiel": "Ein Bein hat sie angewinkelt, das andere liegt auf der Matratze." },
+      { "word": "Fuß", "article": "der", "plural": "die Füße", "beispiel": "Ihre Füße sind angewinkelt und befinden sich in der Luft." },
+      { "word": "Knie", "article": "das", "plural": "die Knie", "beispiel": "Der Mann kniet auf einem Knie, um besser an die Pflanze zu kommen." },
+      { "word": "Auge", "article": "das", "plural": "die Augen", "beispiel": "Die Frau schließt genüsslich die Augen, während sie abbeißt." },
+      { "word": "Gesicht", "article": "das", "plural": "die Gesichter", "besonderheiten": "Dativ Plural: den Gesichtern", "beispiel": "Man kann das freundliche Gesicht der Frau gut erkennen." },
+      { "word": "Haar", "article": "das", "plural": "die Haare", "beispiel": "Die Frau hat kurze, glatte Haare." },
+      { "word": "Bart", "article": "der", "plural": "die Bärte", "beispiel": "Der Mann rechts hat einen gepflegten Bart." },
+      { "word": "Lächeln", "article": "das", "plural": "–", "besonderheiten": "Selten im Plural verwendet", "beispiel": "Man sieht ein breites Lächeln in den Gesichtern der Freunde." }
+    ],
+    "verben": [
+      { "word": "stützen", "partizipII": "gestützt", "erSieEs": "stützt", "beispiel": "Mit ihrer rechten Hand stützt sie ihren Kopf ab." }
+    ],
+    "adjektive": [
+      { "word": "groß", "komparativ": "größer", "superlativ": "am größten", "beispiel": "Die Kollegen sitzen in einem sehr großen Büro." },
+      { "word": "klein", "komparativ": "kleiner", "superlativ": "am kleinsten", "beispiel": "Das kleine Kind kniet fast in der Waschmaschine." },
+      { "word": "lang", "komparativ": "länger", "superlativ": "am längsten", "beispiel": "Das Mädchen im Vordergrund hat lange, braune Haare." },
+      { "word": "kurz", "komparativ": "kürzer", "superlativ": "am kürzesten", "beispiel": "Er hat kurze, braune Haare." },
+      { "word": "hoch", "komparativ": "höher", "superlativ": "am höchsten", "beispiel": "Der Balkon befindet sich in einem hohen Stockwerk." },
+      { "word": "blond", "komparativ": "blonder", "superlativ": "am blondesten", "beispiel": "Die Kundin hat blonde, lockige Haare." },
+      { "word": "lockig", "komparativ": "lockiger", "superlativ": "am lockigsten", "beispiel": "Die Kundin hat blonde, lockige Haare." },
+      { "word": "sportlich", "komparativ": "sportlicher", "superlativ": "am sportlichsten", "beispiel": "Er ist sportlich gekleidet mit einem schlichten T-Shirt." },
+      { "word": "jung", "komparativ": "jünger", "superlativ": "am jüngsten", "beispiel": "Es handelt sich um eine Gruppe von jungen Erwachsenen." },
+      { "word": "alt", "komparativ": "älter", "superlativ": "am ältesten", "beispiel": "Auf der rechten Seite sieht man einen etwas älteren Mann." }
+    ]
+  },
+  {
+    "id": "clothing",
+    "label": "Kleidung & Accessoires",
+    "labelEN": "Clothing & Accessories",
+    "icon": "👗",
+    "nomen": [
+      { "word": "Hemd", "article": "das", "plural": "die Hemden", "beispiel": "Die meisten Männer auf dem Bild tragen ein schickes Hemd." },
+      { "word": "Bluse", "article": "die", "plural": "die Blusen", "beispiel": "Die Frau am Whiteboard trägt eine helle, rosafarbene Bluse." },
+      { "word": "T-Shirt", "article": "das", "plural": "die T-Shirts", "beispiel": "Er hat ein weißes T-Shirt an." },
+      { "word": "Pullover", "article": "der", "plural": "die Pullover", "besonderheiten": "Dativ Plural: den Pullovern", "beispiel": "Die Frau trägt einen auffälligen, senfgelben Pullover." },
+      { "word": "Kapuzenpullover", "article": "der", "plural": "die Kapuzenpullover", "beispiel": "Im Vordergrund sieht man unscharf einen grünen Kapuzenpullover." },
+      { "word": "Oberteil", "article": "das", "plural": "die Oberteile", "beispiel": "Links sieht man viele verschiedene Oberteile, wie zum Beispiel Hemden." },
+      { "word": "Hose", "article": "die", "plural": "die Hosen", "beispiel": "Er hat eine beige Hose an, die bequem für die Gartenarbeit aussieht." },
+      { "word": "Jeans", "article": "die", "plural": "die Jeans", "besonderheiten": "Plural identisch mit Singular", "beispiel": "Passend zu ihrem Hemd hat sie eine hellblaue Jeans an." },
+      { "word": "Kleid", "article": "das", "plural": "die Kleider", "besonderheiten": "Dativ Plural: den Kleidern", "beispiel": "Die Frau trägt ein weißes Kleid ohne Ärmel." },
+      { "word": "Kleidung", "article": "die", "plural": "–", "besonderheiten": "Meist nur im Singular; Plural: die Kleidungsstücke", "beispiel": "Im Laden gibt es viel Auswahl an moderner Kleidung." },
+      { "word": "Jacke", "article": "die", "plural": "die Jacken", "beispiel": "Die blonde Frau trägt eine dunkelgrüne Jacke." },
+      { "word": "Schuh", "article": "der", "plural": "die Schuhe", "besonderheiten": "Dativ Plural: den Schuhen", "beispiel": "Der Mann trägt braune Schuhe an den Füßen." },
+      { "word": "Socke", "article": "die", "plural": "die Socken", "beispiel": "Die Frau trägt keine Schuhe, sondern nur Socken." },
+      { "word": "Krawatte", "article": "die", "plural": "die Krawatten", "beispiel": "Der Mann auf der rechten Seite trägt eine rote Krawatte zu seinem weißen Hemd." },
+      { "word": "Hut", "article": "der", "plural": "die Hüte", "beispiel": "Eine der Frauen trägt einen gelben Hut." },
+      { "word": "Schal", "article": "der", "plural": "die Schals", "beispiel": "Die junge Frau trägt einen blauen Schal mit weißen Mustern." },
+      { "word": "Kopftuch", "article": "das", "plural": "die Kopftücher", "beispiel": "Die Frau, die gerade schreibt, trägt ein helles Kopftuch." },
+      { "word": "Brille", "article": "die", "plural": "die Brillen", "beispiel": "Der Mann im Vordergrund links trägt eine Brille." },
+      { "word": "Sonnenbrille", "article": "die", "plural": "die Sonnenbrillen", "beispiel": "Ein Mann in der Schlange trägt eine schwarze Sonnenbrille." },
+      { "word": "Armband", "article": "das", "plural": "die Armbänder", "besonderheiten": "Dativ Plural: den Armbändern", "beispiel": "Am Handgelenk der Frau sieht man ein dünnes Armband." },
+      { "word": "Uhr", "article": "die", "plural": "die Uhren", "beispiel": "An der weißen Wand im Hintergrund hängt eine grüne Uhr." },
+      { "word": "Rucksack", "article": "der", "plural": "die Rucksäcke", "besonderheiten": "Dativ Plural: den Rucksäcken", "beispiel": "Der Mann in der Mitte der Schlange trägt einen großen, schwarzen Rucksack." },
+      { "word": "Tasche", "article": "die", "plural": "die Taschen", "beispiel": "Man kann die hinteren Taschen der Jeans gut erkennen." },
+      { "word": "Koffer", "article": "der", "plural": "die Koffer", "besonderheiten": "Dativ Plural: den Koffern", "beispiel": "Neben dem Bett stehen zwei große Koffer auf dem Teppichboden." },
+      { "word": "Kleiderbügel", "article": "der", "plural": "die Kleiderbügel", "beispiel": "Die Hosen hängen an schwarzen Kleiderbügeln." },
+      { "word": "Kleiderstange", "article": "die", "plural": "die Kleiderstangen", "beispiel": "An der Kleiderstange hängen viele bunte Oberteile." },
+      { "word": "Spiegel", "article": "der", "plural": "die Spiegel", "beispiel": "Im Hintergrund hängt ein großer Spiegel an der Wand." }
+    ],
+    "verben": [
+      { "word": "tragen", "partizipII": "getragen", "erSieEs": "trägt", "besonderheiten": "Vokalwechsel: a → ä; hier: Kleidung anhaben", "beispiel": "Der Mann vorne links trägt ein blaues Hemd." }
+    ],
+    "adjektive": [
+      { "word": "schick", "komparativ": "schicker", "superlativ": "am schicksten", "beispiel": "Für die Arbeit im Büro haben sich alle schick angezogen." },
+      { "word": "kariert", "komparativ": "–", "superlativ": "–", "beispiel": "Sie hat sich für ein praktisches, kariertes Hemd entschieden." }
+    ]
+  },
+  {
+    "id": "home",
+    "label": "Wohnen & Haushalt",
+    "labelEN": "Home & Household",
+    "icon": "🏠",
+    "nomen": [
+      { "word": "Küche", "article": "die", "plural": "die Küchen", "beispiel": "Die Familie putzt gemeinsam die große, helle Küche." },
+      { "word": "Zimmer", "article": "das", "plural": "die Zimmer", "besonderheiten": "Dativ Plural: den Zimmern", "beispiel": "Die Szene spielt sich in einem hellen Zimmer ab." },
+      { "word": "Wohnzimmer", "article": "das", "plural": "die Wohnzimmer", "beispiel": "In der Mitte des Wohnzimmers steht ein großes, graues Sofa." },
+      { "word": "Schlafzimmer", "article": "das", "plural": "die Schlafzimmer", "beispiel": "Die junge Frau sitzt gemütlich auf dem Bett in ihrem hellen Schlafzimmer." },
+      { "word": "Garten", "article": "der", "plural": "die Gärten", "besonderheiten": "Dativ Plural: den Gärten", "beispiel": "Hinter dem Mann befindet sich ein schöner, grüner Garten." },
+      { "word": "Haus", "article": "das", "plural": "die Häuser", "besonderheiten": "Dativ Plural: den Häusern", "beispiel": "Hinter den Personen befindet sich ein großes, rotes Haus." },
+      { "word": "Gebäude", "article": "das", "plural": "die Gebäude", "beispiel": "Im Hintergrund sieht man ein großes, modernes Gebäude." },
+      { "word": "Tisch", "article": "der", "plural": "die Tische", "besonderheiten": "Dativ Plural: den Tischen", "beispiel": "In der Mitte des Raumes steht ein langer Tisch, an dem die Personen sitzen." },
+      { "word": "Stuhl", "article": "der", "plural": "die Stühle", "besonderheiten": "Dativ Plural: den Stühlen", "beispiel": "Alle Personen sitzen auf weißen Stühlen rund um den Tisch." },
+      { "word": "Bett", "article": "das", "plural": "die Betten", "beispiel": "Das Bett hat ein Gestell aus hellem Holz und steht im hellen Schlafzimmer." },
+      { "word": "Nachttisch", "article": "der", "plural": "die Nachttische", "beispiel": "Auf dem Nachttisch neben dem Bett steht eine kleine Lampe." },
+      { "word": "Regal", "article": "das", "plural": "die Regale", "besonderheiten": "Dativ Plural: den Regalen", "beispiel": "Im Hintergrund stehen viele hohe Regale mit Büchern." },
+      { "word": "Schrank", "article": "der", "plural": "die Schränke", "besonderheiten": "Dativ Plural: den Schränken", "beispiel": "Unter dem Fenster stehen weiße Schränke." },
+      { "word": "Schreibtisch", "article": "der", "plural": "die Schreibtische", "besonderheiten": "Dativ Plural: den Schreibtischen", "beispiel": "Die Frau sitzt an einem hellen Schreibtisch aus Holz." },
+      { "word": "Sessel", "article": "der", "plural": "die Sessel", "beispiel": "Der Mann sitzt bequem in einem braunen Sessel." },
+      { "word": "Sofa", "article": "das", "plural": "die Sofas", "beispiel": "In der Mitte des Bildes sitzen drei Personen gemeinsam auf einem grauen Sofa." },
+      { "word": "Bank", "article": "die", "plural": "die Bänke", "besonderheiten": "Dativ Plural: den Bänken", "beispiel": "Im Hintergrund steht eine kleine, bunte Bank." },
+      { "word": "Arbeitsplatte", "article": "die", "plural": "die Arbeitsplatten", "beispiel": "Das Mädchen im Vordergrund wischt die weiße Arbeitsplatte ab." },
+      { "word": "Lampe", "article": "die", "plural": "die Lampen", "beispiel": "Auf dem Nachttisch neben dem Bett steht eine kleine Lampe." },
+      { "word": "Teppich", "article": "der", "plural": "die Teppiche", "beispiel": "Auf dem Boden liegt ein großer, bunter Teppich." },
+      { "word": "Fenster", "article": "das", "plural": "die Fenster", "besonderheiten": "Dativ Plural: den Fenstern", "beispiel": "Durch die großen Fenster im Hintergrund kommt viel Sonnenlicht herein." },
+      { "word": "Tür", "article": "die", "plural": "die Türen", "beispiel": "Die Personen stehen direkt an der offenen Tür." },
+      { "word": "Wand", "article": "die", "plural": "die Wände", "besonderheiten": "Dativ Plural: den Wänden", "beispiel": "Die Wand im Hintergrund ist eine praktische Lochwand für das ganze Werkzeug." },
+      { "word": "Boden", "article": "der", "plural": "die Böden", "besonderheiten": "Auch: der Fußboden, die Fußböden", "beispiel": "Die Person liegt bäuchlings auf dem hellen Boden." },
+      { "word": "Dach", "article": "das", "plural": "die Dächer", "besonderheiten": "Dativ Plural: den Dächern", "beispiel": "Das Haus hat ein rotes Dach mit einem gemauerten Schornstein." },
+      { "word": "Balkon", "article": "der", "plural": "die Balkone", "besonderheiten": "Dativ Plural: den Balkonen", "beispiel": "Der Mann befindet sich draußen auf einem hohen Balkon." },
+      { "word": "Geländer", "article": "das", "plural": "die Geländer", "besonderheiten": "Dativ Plural: den Geländern", "beispiel": "Am Geländer des Balkons sind Blumenkästen befestigt." },
+      { "word": "Vorhang", "article": "der", "plural": "die Vorhänge", "beispiel": "Die hellen Vorhänge sind zur Seite gezogen." },
+      { "word": "Griff", "article": "der", "plural": "die Griffe", "besonderheiten": "Dativ Plural: den Griffen", "beispiel": "Er hält den schwarzen Griff der Ofentür mit seiner rechten Hand fest." },
+      { "word": "Wäsche", "article": "die", "plural": "–", "besonderheiten": "Singularwort", "beispiel": "Die Familie räumt die Wäsche in die Maschine ein." },
+      { "word": "Wäschekorb", "article": "der", "plural": "die Wäschekörbe", "besonderheiten": "Dativ Plural: den Wäschekörben", "beispiel": "Vor dem Mann steht ein voller Wäschekorb mit schmutziger Kleidung." },
+      { "word": "Hausarbeit", "article": "die", "plural": "die Hausarbeiten", "beispiel": "Der Vater und die beiden Kinder erledigen gemeinsam die Hausarbeit." },
+      { "word": "Bettdecke", "article": "die", "plural": "die Bettdecken", "beispiel": "Auf dem Bett liegt eine dicke, weiße Bettdecke." },
+      { "word": "Kissen", "article": "das", "plural": "die Kissen", "beispiel": "Hinter seinem Rücken liegt ein großes, weißes Kissen." },
+      { "word": "Decke", "article": "die", "plural": "die Decken", "beispiel": "Unter der Frau liegt eine auffällige, rote Decke." },
+      { "word": "Mülleimer", "article": "der", "plural": "die Mülleimer", "beispiel": "Neben der Tür steht ein kleiner, grauer Mülleimer." },
+      { "word": "Besen", "article": "der", "plural": "die Besen", "beispiel": "Der Junge hält einen Besen mit grünen Borsten in der Hand." },
+      { "word": "Lappen", "article": "der", "plural": "die Lappen", "besonderheiten": "Auch: das Tuch", "beispiel": "Sie benutzt einen grünen Lappen, um die Flächen sauber zu machen." },
+      { "word": "Sprühflasche", "article": "die", "plural": "die Sprühflaschen", "beispiel": "Das andere Mädchen hält eine blaue Sprühflasche mit Reinigungsmittel." },
+      { "word": "Waschmaschine", "article": "die", "plural": "die Waschmaschinen", "beispiel": "Auf der rechten Seite steht eine weiße Waschmaschine." },
+      { "word": "Spülbecken", "article": "das", "plural": "die Spülbecken", "besonderheiten": "Auch: die Spüle (fem.)", "beispiel": "In der Mitte der Küchenzeile befindet sich ein großes Spülbecken." },
+      { "word": "Wasserhahn", "article": "der", "plural": "die Wasserhähne", "besonderheiten": "Dativ Plural: den Wasserhähnen", "beispiel": "Neben der Frau sieht man einen modernen Wasserhahn über der Spüle." }
+    ],
+    "verben": [
+      { "word": "sitzen", "partizipII": "gesessen", "erSieEs": "sitzt", "beispiel": "Acht Personen sitzen um den großen Konferenztisch herum." },
+      { "word": "stehen", "partizipII": "gestanden", "erSieEs": "steht", "beispiel": "Nur eine einzige Frau steht vorne an der Tafel." },
+      { "word": "liegen", "partizipII": "gelegen", "erSieEs": "liegt", "beispiel": "Die Frau liegt entspannt auf dem Fußboden." },
+      { "word": "knien", "partizipII": "gekniet", "erSieEs": "kniet", "beispiel": "Der Vater kniet neben seinem kleinen Kind auf dem Fußboden." },
+      { "word": "lehnen", "partizipII": "gelehnt", "erSieEs": "lehnt", "beispiel": "Der Mann lehnt am Zaun und unterhält sich mit seiner Nachbarin." },
+      { "word": "sich befinden", "partizipII": "befunden", "erSieEs": "befindet sich", "besonderheiten": "Reflexiv", "beispiel": "Die Familie befindet sich in einer großen, modernen Küche." },
+      { "word": "wohnen", "partizipII": "gewohnt", "erSieEs": "wohnt", "beispiel": "Sie wohnen zusammen in einem hübschen Haus mit großem Garten." },
+      { "word": "hängen", "partizipII": "gehangen", "erSieEs": "hängt", "besonderheiten": "Intransitiv: gehangen; transitiv: gehängt", "beispiel": "Im Hintergrund hängen unzählige Werkzeuge ordentlich an der Wand." },
+      { "word": "putzen", "partizipII": "geputzt", "erSieEs": "putzt", "beispiel": "Die ganze Familie putzt am Wochenende gemeinsam die Küche." },
+      { "word": "wischen", "partizipII": "gewischt", "erSieEs": "wischt", "beispiel": "Das Mädchen wischt den Schmutz von der glatten Arbeitsplatte." },
+      { "word": "fegen", "partizipII": "gefegt", "erSieEs": "fegt", "besonderheiten": "Auch: kehren", "beispiel": "Der Junge fegt den Schmutz vom Boden zusammen." },
+      { "word": "waschen", "partizipII": "gewaschen", "erSieEs": "wäscht", "besonderheiten": "Vokalwechsel: a → ä", "beispiel": "Die Familie wäscht am Wochenende ihre schmutzige Kleidung." },
+      { "word": "einräumen", "partizipII": "eingeräumt", "erSieEs": "räumt ein", "besonderheiten": "Trennbar", "beispiel": "Sie räumen die Wäsche gemeinsam in die Trommel ein." },
+      { "word": "aufräumen", "partizipII": "aufgeräumt", "erSieEs": "räumt auf", "besonderheiten": "Trennbar", "beispiel": "Es sieht so aus, als ob die Familie nach dem Essen die Küche aufräumt." },
+      { "word": "saubermachen", "partizipII": "saubergemacht", "erSieEs": "macht sauber", "besonderheiten": "Trennbar", "beispiel": "Sie machen zusammen die Küche sauber, damit alles wieder glänzt." },
+      { "word": "öffnen", "partizipII": "geöffnet", "erSieEs": "öffnet", "beispiel": "Der Mann öffnet vorsichtig die Tür von der roten Mikrowelle." },
+      { "word": "schließen", "partizipII": "geschlossen", "erSieEs": "schließt", "beispiel": "Die Frau schließt genüsslich die Augen, während sie den Toast genießt." },
+      { "word": "heben", "partizipII": "gehoben", "erSieEs": "hebt", "beispiel": "Die eine Frau hebt ihren Koffer auf das Bett." }
+    ],
+    "adjektive": [
+      { "word": "modern", "komparativ": "moderner", "superlativ": "am modernsten", "beispiel": "Das Bürogebäude im Hintergrund sieht sehr modern aus." },
+      { "word": "gemütlich", "komparativ": "gemütlicher", "superlativ": "am gemütlichsten", "beispiel": "Der Raum ist mit vielen Pflanzen sehr gemütlich eingerichtet." },
+      { "word": "hell", "komparativ": "heller", "superlativ": "am hellsten", "beispiel": "Der Raum ist sehr hell, weil die Sonne durch die Fenster scheint." },
+      { "word": "dunkel", "komparativ": "dunkler", "superlativ": "am dunkelsten", "beispiel": "In einer dunklen Ecke des Zimmers steht eine Stehlampe." },
+      { "word": "ordentlich", "komparativ": "ordentlicher", "superlativ": "am ordentlichsten", "beispiel": "Die Werkzeuge an der Wand sind sehr ordentlich sortiert." },
+      { "word": "sauber", "komparativ": "sauberer", "superlativ": "am saubersten", "beispiel": "Nachdem sie fertig sind, ist die ganze Küche wieder richtig sauber." },
+      { "word": "schmutzig", "komparativ": "schmutziger", "superlativ": "am schmutzigsten", "beispiel": "In dem Korb liegt die schmutzige Wäsche der Familie." },
+      { "word": "offen", "komparativ": "offener", "superlativ": "am offensten", "beispiel": "Die Tür der Waschmaschine ist offen, damit man die Wäsche einfüllen kann." },
+      { "word": "voll", "komparativ": "voller", "superlativ": "am vollsten", "beispiel": "Der Wäschekorb auf dem Boden ist komplett voll mit Kleidung." },
+      { "word": "leer", "komparativ": "leerer", "superlativ": "am leersten", "beispiel": "Auf dem Tisch steht ein leeres Glas." },
+      { "word": "weich", "komparativ": "weicher", "superlativ": "am weichsten", "beispiel": "Die weiße Bettdecke sieht sehr weich und bequem aus." },
+      { "word": "glatt", "komparativ": "glatter", "superlativ": "am glattesten", "beispiel": "Die Arbeitsplatte ist aus glattem, weißem Material." },
+      { "word": "ruhig", "komparativ": "ruhiger", "superlativ": "am ruhigsten", "beispiel": "Die Katze liegt ganz ruhig auf der weichen Decke." },
+      { "word": "bequem", "komparativ": "bequemer", "superlativ": "am bequemsten", "beispiel": "Die blauen Polsterstühle sehen sehr bequem aus." },
+      { "word": "praktisch", "komparativ": "praktischer", "superlativ": "am praktischsten", "beispiel": "Eine Lochwand ist sehr praktisch, um Zangen und Schlüssel aufzuhängen." }
+    ]
+  },
+  {
+    "id": "food",
+    "label": "Essen & Trinken",
+    "labelEN": "Food & Drink",
+    "icon": "🍽️",
+    "nomen": [
+      { "word": "Tasse", "article": "die", "plural": "die Tassen", "beispiel": "Im Vordergrund sehe ich eine dunkle Tasse auf dem Tisch." },
+      { "word": "Glas", "article": "das", "plural": "die Gläser", "besonderheiten": "Dativ Plural: den Gläsern", "beispiel": "Neben den Laptops stehen auch ein paar Gläser mit Wasser." },
+      { "word": "Teller", "article": "der", "plural": "die Teller", "besonderheiten": "Dativ Plural: den Tellern", "beispiel": "Vor den Personen stehen Teller mit Gebäck und Snacks." },
+      { "word": "Löffel", "article": "der", "plural": "die Löffel", "besonderheiten": "Dativ Plural: den Löffeln", "beispiel": "In ihrer rechten Hand hält sie einen kleinen Löffel nach oben." },
+      { "word": "Gabel", "article": "die", "plural": "die Gabeln", "beispiel": "Neben dem Teller liegt eine silberne Gabel auf der Serviette." },
+      { "word": "Messer", "article": "das", "plural": "die Messer", "besonderheiten": "Dativ Plural: den Messern", "beispiel": "Mit dem Messer schneidet sie das Toastbrot in zwei Hälften." },
+      { "word": "Schüssel", "article": "die", "plural": "die Schüsseln", "beispiel": "Auf dem Tisch steht eine große Schüssel mit frischem Obst." },
+      { "word": "Flasche", "article": "die", "plural": "die Flaschen", "beispiel": "Neben dem Laptop steht eine Glasflasche." },
+      { "word": "Gebäck", "article": "das", "plural": "die Gebäcke", "besonderheiten": "Selten im Plural", "beispiel": "Auf dem Teller liegt ein frisches Gebäck, wahrscheinlich ein Croissant." },
+      { "word": "Getränk", "article": "das", "plural": "die Getränke", "beispiel": "Die warmen Getränke stehen in der Mitte des Tisches." },
+      { "word": "Toastbrot", "article": "das", "plural": "die Toastbrote", "beispiel": "Sie hat ein Stück Toastbrot in der Hand und beißt gerade genüsslich davon ab." },
+      { "word": "Marmelade", "article": "die", "plural": "die Marmeladen", "beispiel": "Auf dem Brot ist eine dicke Schicht rote Marmelade gestrichen." },
+      { "word": "Avocado", "article": "die", "plural": "die Avocados", "beispiel": "Auf dem Tisch liegt eine aufgeschnittene Avocado auf einem Teller." },
+      { "word": "Saft", "article": "der", "plural": "die Säfte", "besonderheiten": "Dativ Plural: den Säften", "beispiel": "In einem der Gläser befindet sich gelber Orangensaft." },
+      { "word": "Brokkoli", "article": "der", "plural": "die Brokkolis", "beispiel": "Im Korb liegt ein großer, grüner Brokkoli." },
+      { "word": "Gemüse", "article": "das", "plural": "–", "besonderheiten": "Meist nur im Singular verwendet", "beispiel": "Man kann grünes Gemüse in einer Plastiktüte sehen." },
+      { "word": "Café", "article": "das", "plural": "die Cafés", "beispiel": "Die Personen befinden sich in einem modernen Café." },
+      { "word": "Kühlschrank", "article": "der", "plural": "die Kühlschränke", "besonderheiten": "Dativ Plural: den Kühlschränken", "beispiel": "Ganz rechts im Bild sieht man einen großen, silbernen Kühlschrank." },
+      { "word": "Backofen", "article": "der", "plural": "die Backöfen", "beispiel": "Es könnte sich bei dem roten Gerät auch um einen kleinen Backofen handeln." },
+      { "word": "Mikrowelle", "article": "die", "plural": "die Mikrowellen", "beispiel": "Auf der linken Seite des Bildes sehe ich eine rote Mikrowelle." },
+      { "word": "Kaffeemaschine", "article": "die", "plural": "die Kaffeemaschinen", "beispiel": "Im Hintergrund steht eine glänzende Kaffeemaschine auf der Arbeitsplatte." }
+    ],
+    "verben": [
+      { "word": "essen", "partizipII": "gegessen", "erSieEs": "isst", "besonderheiten": "Vokalwechsel: e → i", "beispiel": "Ein Mann isst gerade ein Stück von seinem Croissant." },
+      { "word": "trinken", "partizipII": "getrunken", "erSieEs": "trinkt", "beispiel": "Sie trinken wahrscheinlich Kaffee oder Tee." },
+      { "word": "frühstücken", "partizipII": "gefrühstückt", "erSieEs": "frühstückt", "beispiel": "Die Frau frühstückt allein vor ihrem Laptop in der Küche." }
+    ],
+    "adjektive": [
+      { "word": "lecker", "komparativ": "leckerer", "superlativ": "am leckersten", "beispiel": "Das Gebäck auf dem Tisch sieht sehr lecker aus." },
+      { "word": "gesund", "komparativ": "gesünder", "superlativ": "am gesündesten", "beispiel": "Die Avocado auf dem Toast ist sehr gesund." },
+      { "word": "süß", "komparativ": "süßer", "superlativ": "am süßesten", "beispiel": "Die Marmelade auf dem Toast sieht süß und lecker aus." },
+      { "word": "hungrig", "komparativ": "hungriger", "superlativ": "am hungrigsten", "beispiel": "Die Frau beißt hungrig in ihr Frühstücksbrot." }
+    ]
+  },
+  {
+    "id": "shopping",
+    "label": "Einkaufen & Geld",
+    "labelEN": "Shopping & Money",
+    "icon": "🛒",
+    "nomen": [
+      { "word": "Geschäft", "article": "das", "plural": "die Geschäfte", "beispiel": "Das Geschäft ist hell beleuchtet und sehr ordentlich." },
+      { "word": "Elektromarkt", "article": "der", "plural": "die Elektromärkte", "beispiel": "Der Mann und die Frau befinden sich in einem großen Elektromarkt." },
+      { "word": "Online-Shop", "article": "der", "plural": "die Online-Shops", "beispiel": "Er sucht in einem Online-Shop nach einem neuen Hemd." },
+      { "word": "Geld", "article": "das", "plural": "–", "besonderheiten": "Kein Plural in dieser Bedeutung", "beispiel": "Er holt am Automaten Geld für den Einkauf." },
+      { "word": "Geldautomat", "article": "der", "plural": "die Geldautomaten", "besonderheiten": "N-Deklination (Akk: den Geldautomaten, Dat: dem Geldautomaten)", "beispiel": "Ein Mann steht ganz vorne am Geldautomaten, um Bargeld zu holen." },
+      { "word": "Schlange", "article": "die", "plural": "die Schlangen", "besonderheiten": "Hier: Warteschlange", "beispiel": "Auf dem Bürgersteig hat sich eine lange Schlange gebildet." },
+      { "word": "Preisschild", "article": "das", "plural": "die Preisschilder", "beispiel": "Auf dem Gerät sieht man ein kleines Preisschild mit dem Preis." },
+      { "word": "Einkauf", "article": "der", "plural": "die Einkäufe", "beispiel": "Die junge Frau hat den Einkauf für die ältere Dame erledigt." },
+      { "word": "Einkaufskorb", "article": "der", "plural": "die Einkaufskörbe", "beispiel": "Im Einkaufskorb liegt viel frisches Gemüse." },
+      { "word": "Korb", "article": "der", "plural": "die Körbe", "besonderheiten": "Dativ Plural: den Körben", "beispiel": "Die Frauen halten gemeinsam einen großen Korb." },
+      { "word": "Auswahl", "article": "die", "plural": "die Auswahlen", "beispiel": "Das Geschäft bietet eine große Auswahl an Mode an." },
+      { "word": "Rolltreppe", "article": "die", "plural": "die Rolltreppen", "beispiel": "Im Hintergrund links kann man eine Rolltreppe erkennen." },
+      { "word": "Schaufenster", "article": "das", "plural": "die Schaufenster", "beispiel": "Links neben dem Automaten sieht man ein Schaufenster, das dekoriert ist." }
+    ],
+    "verben": [
+      { "word": "einkaufen", "partizipII": "eingekauft", "erSieEs": "kauft ein", "besonderheiten": "Trennbar", "beispiel": "Die jüngere Person ist für die ältere Person einkaufen gegangen." },
+      { "word": "kaufen", "partizipII": "gekauft", "erSieEs": "kauft", "beispiel": "Sie hat ein neues Handy im Laden gekauft." },
+      { "word": "suchen", "partizipII": "gesucht", "erSieEs": "sucht", "beispiel": "Das Paar sucht gemeinsam nach einem neuen Gerät." },
+      { "word": "auswählen", "partizipII": "ausgewählt", "erSieEs": "wählt aus", "besonderheiten": "Trennbar", "beispiel": "Die Frau wählt sorgfältig die richtige Jeans aus." },
+      { "word": "vergleichen", "partizipII": "verglichen", "erSieEs": "vergleicht", "beispiel": "Die Kundin vergleicht zwei Hosen, um die richtige Wahl zu treffen." },
+      { "word": "ausprobieren", "partizipII": "ausprobiert", "erSieEs": "probiert aus", "besonderheiten": "Trennbar", "beispiel": "Der Mann probiert verschiedene Smartphones aus." },
+      { "word": "bestellen", "partizipII": "bestellt", "erSieEs": "bestellt", "beispiel": "Er bestellt ein neues Hemd über den Online-Shop." },
+      { "word": "überlegen", "partizipII": "überlegt", "erSieEs": "überlegt", "beispiel": "Der Mann überlegt, welches Gerät er nehmen soll." },
+      { "word": "warten", "partizipII": "gewartet", "erSieEs": "wartet", "beispiel": "Die Leute warten geduldig in einer langen Reihe." },
+      { "word": "anstehen", "partizipII": "angestanden", "erSieEs": "steht an", "besonderheiten": "Trennbar", "beispiel": "Die Leute stehen geduldig in der langen Schlange an." },
+      { "word": "abheben", "partizipII": "abgehoben", "erSieEs": "hebt ab", "besonderheiten": "Trennbar; hier: Geld abheben", "beispiel": "Er hebt Geld am Automaten ab." }
+    ],
+    "adjektive": [
+      { "word": "teuer", "komparativ": "teurer", "superlativ": "am teuersten", "beispiel": "Die neuesten Smartphones auf dem Tisch sind bestimmt sehr teuer." },
+      { "word": "neu", "komparativ": "neuer", "superlativ": "am neuesten", "beispiel": "Das Paar sucht nach einem neuen Gerät für die Küche." },
+      { "word": "verschieden", "komparativ": "–", "superlativ": "–", "beispiel": "Die Kleidungsstücke haben viele verschiedene Farben." },
+      { "word": "interessiert", "komparativ": "interessierter", "superlativ": "am interessiertesten", "beispiel": "Der Kunde schaut interessiert auf die verschiedenen Geräte." }
+    ]
+  },
+  {
+    "id": "work",
+    "label": "Arbeit & Bildung",
+    "labelEN": "Work & Education",
+    "icon": "📚",
+    "nomen": [
+      { "word": "Büro", "article": "das", "plural": "die Büros", "beispiel": "Die Frau sitzt an einem hellen Schreibtisch im Büro." },
+      { "word": "Werkstatt", "article": "die", "plural": "die Werkstätten", "beispiel": "Die junge Frau befindet sich in einer sehr gut ausgestatteten Werkstatt." },
+      { "word": "Werkbank", "article": "die", "plural": "die Werkbänke", "besonderheiten": "Dativ Plural: den Werkbänken", "beispiel": "Die Frau steht bei ihrer Arbeit an einer blauen Werkbank." },
+      { "word": "Papier", "article": "das", "plural": "die Papiere", "besonderheiten": "Dativ Plural: den Papieren", "beispiel": "Auf dem Tisch liegen viele Papiere mit wichtigen Informationen." },
+      { "word": "Stift", "article": "der", "plural": "die Stifte", "besonderheiten": "Dativ Plural: den Stiften", "beispiel": "Eine Frau in der Mitte hält einen schwarzen Stift in der Hand." },
+      { "word": "Bleistift", "article": "der", "plural": "die Bleistifte", "beispiel": "Vor dem älteren Mann auf der rechten Seite liegt ein Bleistift." },
+      { "word": "Notizbuch", "article": "das", "plural": "die Notizbücher", "besonderheiten": "Dativ Plural: den Notizbüchern", "beispiel": "Auf dem Schoß der Frau liegt ein aufgeschlagenes Notizbuch." },
+      { "word": "Dokument", "article": "das", "plural": "die Dokumente", "besonderheiten": "Dativ Plural: den Dokumenten", "beispiel": "Sie lesen gemeinsam wichtige Dokumente, die auf dem Tisch liegen." },
+      { "word": "Whiteboard", "article": "das", "plural": "die Whiteboards", "besonderheiten": "Auch: die Tafel", "beispiel": "Auf dem Whiteboard im Hintergrund kann man Notizen und Grafiken sehen." },
+      { "word": "Besprechung", "article": "die", "plural": "die Besprechungen", "besonderheiten": "Auch: das Meeting", "beispiel": "Die Situation auf dem Bild zeigt eine typische Besprechung im Büro." },
+      { "word": "Werkzeug", "article": "das", "plural": "die Werkzeuge", "besonderheiten": "Dativ Plural: den Werkzeugen", "beispiel": "An der Wand hinter ihr hängen sehr viele verschiedene Werkzeuge." },
+      { "word": "Zange", "article": "die", "plural": "die Zangen", "beispiel": "In ihrer rechten Hand hält sie eine blaue Zange, um an den Speichen zu arbeiten." },
+      { "word": "Schraubenschlüssel", "article": "der", "plural": "die Schraubenschlüssel", "besonderheiten": "Dativ Plural: den Schraubenschlüsseln", "beispiel": "Oben links an der Wand sieht man eine Reihe von Schraubenschlüsseln." },
+      { "word": "Schraubenzieher", "article": "der", "plural": "die Schraubenzieher", "besonderheiten": "Dativ Plural: den Schraubenziehern", "beispiel": "Neben den anderen Werkzeugen sind auch mehrere Schraubenzieher ordentlich aufgehängt." },
+      { "word": "Schaufel", "article": "die", "plural": "die Schaufeln", "beispiel": "Er benutzt eine Schaufel, um die Erde in den Topf zu füllen." },
+      { "word": "Hammer", "article": "der", "plural": "die Hämmer", "besonderheiten": "Dativ Plural: den Hämmern", "beispiel": "An der Lochwand in der Werkstatt hängt auch ein schwerer Hammer." }
+    ],
+    "verben": [
+      { "word": "arbeiten", "partizipII": "gearbeitet", "erSieEs": "arbeitet", "beispiel": "Die Gruppe arbeitet sehr konzentriert im Büro zusammen." },
+      { "word": "schreiben", "partizipII": "geschrieben", "erSieEs": "schreibt", "beispiel": "Manche Personen schreiben wichtige Dinge auf ein Stück Papier." },
+      { "word": "lernen", "partizipII": "gelernt", "erSieEs": "lernt", "beispiel": "Vielleicht lernen sie zusammen für eine Prüfung oder einen Kurs." },
+      { "word": "tippen", "partizipII": "getippt", "erSieEs": "tippt", "beispiel": "Die Frau tippt schnell auf der Tastatur ihres Laptops." },
+      { "word": "sich konzentrieren", "partizipII": "konzentriert", "erSieEs": "konzentriert sich", "besonderheiten": "Reflexiv", "beispiel": "Man sieht deutlich, dass sie sich voll auf die Reparatur konzentriert." },
+      { "word": "bedienen", "partizipII": "bedient", "erSieEs": "bedient", "beispiel": "Die Frau bedient den Geldautomaten." },
+      { "word": "reparieren", "partizipII": "repariert", "erSieEs": "repariert", "beispiel": "Die Mechanikerin repariert ein kaputtes Fahrrad in ihrer Werkstatt." },
+      { "word": "schrauben", "partizipII": "geschraubt", "erSieEs": "schraubt", "beispiel": "Sie schraubt vorsichtig an den Muttern des Rades." },
+      { "word": "prüfen", "partizipII": "geprüft", "erSieEs": "prüft", "besonderheiten": "Auch: kontrollieren", "beispiel": "Sie prüft genau, ob das Rad richtig zentriert ist." },
+      { "word": "halten", "partizipII": "gehalten", "erSieEs": "hält", "besonderheiten": "Vokalwechsel: a → ä", "beispiel": "Mit beiden Händen hält sie das Rad und das Werkzeug fest." }
+    ],
+    "adjektive": [
+      { "word": "professionell", "komparativ": "professioneller", "superlativ": "am professionellsten", "beispiel": "Die Leute sind professionell gekleidet und besprechen wichtige Themen." },
+      { "word": "konzentriert", "komparativ": "konzentrierter", "superlativ": "am konzentriertesten", "beispiel": "Alle Mitarbeiter wirken bei ihrer Arbeit hoch konzentriert." },
+      { "word": "fleißig", "komparativ": "fleißiger", "superlativ": "am fleißigsten", "beispiel": "Die fleißigen Kinder übernehmen einen großen Teil der Putzarbeit." },
+      { "word": "geschickt", "komparativ": "geschickter", "superlativ": "am geschicktesten", "beispiel": "Sie geht sehr geschickt mit der kleinen Zange um." },
+      { "word": "kaputt", "komparativ": "kaputter", "superlativ": "am kaputtesten", "beispiel": "Vermutlich ist das Fahrrad kaputt und muss dringend gewartet werden." }
+    ]
+  },
+  {
+    "id": "media",
+    "label": "Medien & Technik",
+    "labelEN": "Media & Technology",
+    "icon": "📱",
+    "nomen": [
+      { "word": "Laptop", "article": "der", "plural": "die Laptops", "beispiel": "Vor einigen Personen liegen Laptops auf dem Tisch." },
+      { "word": "Bildschirm", "article": "der", "plural": "die Bildschirme", "besonderheiten": "Dativ Plural: den Bildschirmen", "beispiel": "Auf dem großen Bildschirm vor ihr kann man viele verschiedene Fotos erkennen." },
+      { "word": "Tastatur", "article": "die", "plural": "die Tastaturen", "beispiel": "Ihre linke Hand liegt auf der schwarzen Tastatur." },
+      { "word": "Maus", "article": "die", "plural": "die Mäuse", "besonderheiten": "Dativ Plural: den Mäusen; hier: Computermaus", "beispiel": "Mit ihrer rechten Hand bedient sie die Maus des Computers." },
+      { "word": "Smartphone", "article": "das", "plural": "die Smartphones", "besonderheiten": "Auch: das Handy, die Handys", "beispiel": "Jede der drei Personen hält ein eigenes Smartphone in der Hand." },
+      { "word": "Lautsprecher", "article": "der", "plural": "die Lautsprecher", "beispiel": "Rechts im Hintergrund kann man einen großen Lautsprecher sehen." },
+      { "word": "Kabel", "article": "das", "plural": "die Kabel", "beispiel": "Neben den Handys liegen weiße Kabel auf dem Tisch." },
+      { "word": "Haushaltsgerät", "article": "das", "plural": "die Haushaltsgeräte", "beispiel": "Das Paar sucht nach einem neuen Haushaltsgerät für ihre Küche." },
+      { "word": "Foto", "article": "das", "plural": "die Fotos", "beispiel": "Auf dem Bildschirm vor ihr kann man viele verschiedene Fotos erkennen." }
+    ],
+    "verben": [
+      { "word": "benutzen", "partizipII": "benutzt", "erSieEs": "benutzt", "beispiel": "Alle drei Personen benutzen gleichzeitig ihr Smartphone." }
+    ],
+    "adjektive": []
+  },
+  {
+    "id": "travel",
+    "label": "Mobilität & Reisen",
+    "labelEN": "Mobility & Travel",
+    "icon": "✈️",
+    "nomen": [
+      { "word": "Auto", "article": "das", "plural": "die Autos", "beispiel": "Hinter den Bäumen kann man ein geparktes Auto erkennen." },
+      { "word": "Fahrrad", "article": "das", "plural": "die Fahrräder", "besonderheiten": "Dativ Plural: den Fahrrädern", "beispiel": "Die Mechanikerin repariert ein kaputtes Fahrrad in ihrer Werkstatt." },
+      { "word": "Rad", "article": "das", "plural": "die Räder", "besonderheiten": "Dativ Plural: den Rädern; auch: Fahrradrad, Vorderrad", "beispiel": "Sie hält ein großes Rad fest in ihren Händen, um es zu überprüfen." },
+      { "word": "Reifen", "article": "der", "plural": "die Reifen", "beispiel": "Der Reifen des Fahrrads ist noch auf die Felge aufgezogen." },
+      { "word": "Hotel", "article": "das", "plural": "die Hotels", "beispiel": "Das Bild zeigt den Eingangsbereich von einem modernen Hotel." },
+      { "word": "Hotelzimmer", "article": "das", "plural": "die Hotelzimmer", "beispiel": "Das Hotelzimmer sieht sehr modern und gemütlich aus." },
+      { "word": "Rezeption", "article": "die", "plural": "die Rezeptionen", "beispiel": "Die beiden Gäste stehen an der Rezeption und sprechen mit der Mitarbeiterin." },
+      { "word": "Stadt", "article": "die", "plural": "die Städte", "beispiel": "Im Hintergrund sieht man die Dächer und Häuser der Stadt." },
+      { "word": "Straße", "article": "die", "plural": "die Straßen", "beispiel": "Die Straße sieht aus wie eine belebte Fußgängerzone in einer Stadt." }
+    ],
+    "verben": [
+      { "word": "reisen", "partizipII": "gereist", "erSieEs": "reist", "beispiel": "Die beiden Touristen sind mit dem Zug gereist." },
+      { "word": "ankommen", "partizipII": "angekommen", "erSieEs": "kommt an", "besonderheiten": "Trennbar", "beispiel": "Die beiden Gäste sind gerade im Hotel angekommen." },
+      { "word": "einchecken", "partizipII": "eingecheckt", "erSieEs": "checkt ein", "besonderheiten": "Trennbar", "beispiel": "Die Touristen checken an der Rezeption ein." },
+      { "word": "besuchen", "partizipII": "besucht", "erSieEs": "besucht", "beispiel": "Die junge Frau besucht die Seniorin an ihrer Haustür." },
+      { "word": "parken", "partizipII": "geparkt", "erSieEs": "parkt", "beispiel": "Neben der Straße parken mehrere Autos." }
+    ],
+    "adjektive": [
+      { "word": "schwer", "komparativ": "schwerer", "superlativ": "am schwersten", "beispiel": "Die beiden großen Koffer sehen sehr schwer aus." }
+    ]
+  },
+  {
+    "id": "leisure",
+    "label": "Freizeit & Natur",
+    "labelEN": "Leisure & Nature",
+    "icon": "🌳",
+    "nomen": [
+      { "word": "Pflanze", "article": "die", "plural": "die Pflanzen", "beispiel": "Im Garten wachsen viele verschiedene grüne Pflanzen." },
+      { "word": "Zimmerpflanze", "article": "die", "plural": "die Zimmerpflanzen", "beispiel": "Auf der Fensterbank und neben dem Fenster stehen mehrere große Zimmerpflanzen." },
+      { "word": "Blume", "article": "die", "plural": "die Blumen", "beispiel": "Man kann im Hintergrund bunte Blumen erkennen." },
+      { "word": "Baum", "article": "der", "plural": "die Bäume", "besonderheiten": "Dativ Plural: den Bäumen", "beispiel": "Im Hintergrund sieht man hohe Bäume mit grünem und orangem Laub." },
+      { "word": "Ast", "article": "der", "plural": "die Äste", "beispiel": "Am rechten Rand des Bildes hängt ein Ast über der Szene." },
+      { "word": "Blatt", "article": "das", "plural": "die Blätter", "besonderheiten": "Dativ Plural: den Blättern", "beispiel": "Der Mann hält ein grünes Blatt in seinen Händen." },
+      { "word": "Blumentopf", "article": "der", "plural": "die Blumentöpfe", "besonderheiten": "Dativ Plural: den Blumentöpfen", "beispiel": "An der Wand hängen mehrere weiße Blumentöpfe." },
+      { "word": "Gras", "article": "das", "plural": "die Gräser", "besonderheiten": "Dativ Plural: den Gräsern", "beispiel": "Das Gras um sie herum ist sehr hoch und leuchtend grün." },
+      { "word": "Wiese", "article": "die", "plural": "die Wiesen", "beispiel": "Sie haben sich einen gemütlichen Platz auf der grünen Wiese gesucht." },
+      { "word": "Erde", "article": "die", "plural": "die Erden", "besonderheiten": "Selten im Plural", "beispiel": "Er füllt dunkle Erde in den großen Blumentopf." },
+      { "word": "Beet", "article": "das", "plural": "die Beete", "beispiel": "Links neben dem Mann gibt es ein kleines Beet mit verschiedenen Pflanzen." },
+      { "word": "Zaun", "article": "der", "plural": "die Zäune", "besonderheiten": "Dativ Plural: den Zäunen", "beispiel": "Zwischen den beiden Personen steht ein alter Zaun aus Holz." },
+      { "word": "Himmel", "article": "der", "plural": "die Himmel", "beispiel": "Über dem Dach des Hauses sieht man den blauen Himmel." },
+      { "word": "Schatten", "article": "der", "plural": "die Schatten", "beispiel": "Weil die Sonne stark scheint, sieht man die dunklen Schatten der Personen auf dem Boden." },
+      { "word": "Kiste", "article": "die", "plural": "die Kisten", "beispiel": "Rechts im Bild steht eine größere Kiste mit Blumenerde." },
+      { "word": "Stock", "article": "der", "plural": "die Stöcke", "beispiel": "Im Garten liegt ein langer, brauner Stock auf dem Boden." },
+      { "word": "Park", "article": "der", "plural": "die Parks", "beispiel": "Die Szene findet an einem sonnigen Tag in einem Park statt." },
+      { "word": "Hund", "article": "der", "plural": "die Hunde", "beispiel": "Neben ihr liegt ein großer Hund im Gras und schaut nach vorne." },
+      { "word": "Katze", "article": "die", "plural": "die Katzen", "besonderheiten": "Maskulin: der Kater", "beispiel": "Neben der Frau liegt eine getigerte Katze auf der weißen Matratze." },
+      { "word": "Bild", "article": "das", "plural": "die Bilder", "besonderheiten": "Dativ Plural: den Bildern", "beispiel": "Das unfertige Bild zeigt helle, bunte Farben wie Grün, Gelb und Rosa." },
+      { "word": "Pinsel", "article": "der", "plural": "die Pinsel", "besonderheiten": "Dativ Plural: den Pinseln", "beispiel": "Die Künstlerin hält einen dünnen Pinsel in ihrer rechten Hand." },
+      { "word": "Farbe", "article": "die", "plural": "die Farben", "beispiel": "Auf der Palette befinden sich viele verschiedene Farben." },
+      { "word": "Leinwand", "article": "die", "plural": "die Leinwände", "besonderheiten": "Dativ Plural: den Leinwänden", "beispiel": "Mitten im Bild steht eine weiße Leinwand auf einem Holzgestell." },
+      { "word": "Tube", "article": "die", "plural": "die Tuben", "beispiel": "Auf der Wiese liegen viele Tuben mit Farbe." },
+      { "word": "Zeichnung", "article": "die", "plural": "die Zeichnungen", "beispiel": "Auf dem Whiteboard sieht man verschiedene Zeichnungen und Diagramme." },
+      { "word": "Buch", "article": "das", "plural": "die Bücher", "besonderheiten": "Dativ Plural: den Büchern", "beispiel": "Die Frau hält ein kleines Buch in ihren Händen und liest darin." },
+      { "word": "Zeitschrift", "article": "die", "plural": "die Zeitschriften", "beispiel": "Vor ihr auf der Decke liegt eine aufgeschlagene Zeitschrift." },
+      { "word": "Seite", "article": "die", "plural": "die Seiten", "beispiel": "Mit ihren Fingern blättert sie gerade eine Seite um." },
+      { "word": "Freizeit", "article": "die", "plural": "–", "besonderheiten": "Kein Plural", "beispiel": "Die Menschen genießen ihre Freizeit im sonnigen Park." },
+      { "word": "Abend", "article": "der", "plural": "die Abende", "beispiel": "Es sieht aus wie ein warmer Sommerabend auf dem Balkon." }
+    ],
+    "verben": [
+      { "word": "pflanzen", "partizipII": "gepflanzt", "erSieEs": "pflanzt", "beispiel": "Er pflanzt eine neue Blume in den großen Blumentopf." },
+      { "word": "wachsen", "partizipII": "gewachsen", "erSieEs": "wächst", "besonderheiten": "Vokalwechsel: a → ä", "beispiel": "Die Pflanzen wachsen sehr gut, weil der Balkon viel Sonne bekommt." },
+      { "word": "pflegen", "partizipII": "gepflegt", "erSieEs": "pflegt", "beispiel": "Der Mann pflegt seine Pflanzen auf dem Balkon sehr sorgfältig." },
+      { "word": "gärtnern", "partizipII": "gegärtnert", "erSieEs": "gärtnert", "beispiel": "Er gärtnert in seiner Freizeit gern auf dem Balkon." },
+      { "word": "scheinen", "partizipII": "geschienen", "erSieEs": "scheint", "beispiel": "Die Sonne scheint hell durch die großen Bäume." },
+      { "word": "streicheln", "partizipII": "gestreichelt", "erSieEs": "streichelt", "beispiel": "Die junge Frau streichelt die zufriedene Katze auf dem Bett." },
+      { "word": "malen", "partizipII": "gemalt", "erSieEs": "malt", "beispiel": "Die junge Frau malt ein buntes Bild auf die Leinwand." },
+      { "word": "mischen", "partizipII": "gemischt", "erSieEs": "mischt", "beispiel": "Die Künstlerin mischt verschiedene Farben auf der Palette." },
+      { "word": "lesen", "partizipII": "gelesen", "erSieEs": "liest", "besonderheiten": "Vokalwechsel: e → ie", "beispiel": "Sie liest konzentriert in ihrer Zeitschrift." },
+      { "word": "blättern", "partizipII": "geblättert", "erSieEs": "blättert", "beispiel": "Mit ihren Fingern blättert sie gerade eine Seite um." },
+      { "word": "sich entspannen", "partizipII": "entspannt", "erSieEs": "entspannt sich", "besonderheiten": "Reflexiv", "beispiel": "An einem warmen Sommertag kann man sich im Park entspannen." },
+      { "word": "sich ausruhen", "partizipII": "ausgeruht", "erSieEs": "ruht sich aus", "besonderheiten": "Reflexiv; trennbar", "beispiel": "Die Frau ruht sich auf einer Decke im Gras aus." },
+      { "word": "verbringen", "partizipII": "verbracht", "erSieEs": "verbringt", "beispiel": "Die junge Frau verbringt einen schönen Tag mit ihrem Hund im Park." },
+      { "word": "genießen", "partizipII": "genossen", "erSieEs": "genießt", "beispiel": "Man sieht, dass sie die gemeinsame Zeit sehr genießen." },
+      { "word": "berühren", "partizipII": "berührt", "erSieEs": "berührt", "beispiel": "Er berührt vorsichtig die grünen Blätter der Pflanze." },
+      { "word": "anfassen", "partizipII": "angefasst", "erSieEs": "fasst an", "besonderheiten": "Trennbar", "beispiel": "Das Kind fasst neugierig die Blätter an." },
+      { "word": "leuchten", "partizipII": "geleuchtet", "erSieEs": "leuchtet", "beispiel": "Die goldenen Blätter leuchten im Sonnenlicht." }
+    ],
+    "adjektive": [
+      { "word": "kreativ", "komparativ": "kreativer", "superlativ": "am kreativsten", "beispiel": "Die kreative Künstlerin malt draußen in der Natur." },
+      { "word": "bunt", "komparativ": "bunter", "superlativ": "am buntesten", "beispiel": "Das unfertige Bild zeigt viele bunte, kräftige Farben." },
+      { "word": "sonnig", "komparativ": "sonniger", "superlativ": "am sonnigsten", "beispiel": "Es ist ein sehr sonniger Tag im Sommer oder Frühling." },
+      { "word": "herbstlich", "komparativ": "–", "superlativ": "–", "beispiel": "Die herbstlichen Farben der Blätter leuchten im Sonnenlicht." },
+      { "word": "warm", "komparativ": "wärmer", "superlativ": "am wärmsten", "beispiel": "Die warme Nachmittagssonne scheint durch die Bäume." },
+      { "word": "feucht", "komparativ": "feuchter", "superlativ": "am feuchtesten", "beispiel": "Die Erde in dem Blumentopf sieht noch feucht aus." },
+      { "word": "interessant", "komparativ": "interessanter", "superlativ": "am interessantesten", "beispiel": "Die Zeichnungen auf dem Whiteboard sehen sehr interessant aus." },
+      { "word": "schön", "komparativ": "schöner", "superlativ": "am schönsten", "beispiel": "Auf der Leinwand entsteht ein wunderschönes Naturgemälde." },
+      { "word": "lustig", "komparativ": "lustiger", "superlativ": "am lustigsten", "beispiel": "Jemand hat anscheinend etwas sehr Lustiges erzählt." }
+    ]
+  },
+  {
+    "id": "emotions",
+    "label": "Gefühle & Stimmung",
+    "labelEN": "Emotions & Moods",
+    "icon": "😊",
+    "nomen": [],
+    "verben": [
+      { "word": "sich freuen", "partizipII": "gefreut", "erSieEs": "freut sich", "besonderheiten": "Reflexiv", "beispiel": "Das Paar freut sich über das wunderschöne neue Haus." },
+      { "word": "lächeln", "partizipII": "gelächelt", "erSieEs": "lächelt", "beispiel": "Die meisten Teilnehmer lächeln und haben gute Laune." },
+      { "word": "lachen", "partizipII": "gelacht", "erSieEs": "lacht", "beispiel": "Alle Personen auf dem Bild lachen und haben offensichtlich Spaß bei der Arbeit." }
+    ],
+    "adjektive": [
+      { "word": "fröhlich", "komparativ": "fröhlicher", "superlativ": "am fröhlichsten", "beispiel": "Die Stimmung in der Gruppe ist fröhlich und positiv." },
+      { "word": "glücklich", "komparativ": "glücklicher", "superlativ": "am glücklichsten", "beispiel": "Sie wirken wie eine sehr glückliche Familie." },
+      { "word": "zufrieden", "komparativ": "zufriedener", "superlativ": "am zufriedensten", "beispiel": "Das Paar sieht sehr zufrieden mit seinem neuen Zuhause aus." },
+      { "word": "dankbar", "komparativ": "dankbarer", "superlativ": "am dankbarsten", "beispiel": "Die ältere Dame wirkt sehr dankbar für die Hilfe." },
+      { "word": "entspannt", "komparativ": "entspannter", "superlativ": "am entspanntesten", "beispiel": "Die Personen wirken in ihrer Freizeit sehr entspannt." },
+      { "word": "neugierig", "komparativ": "neugieriger", "superlativ": "am neugierigsten", "beispiel": "Das kleine Kind schaut neugierig in die offene Waschmaschine." }
+    ]
+  },
+  {
+    "id": "perception",
+    "label": "Wahrnehmung & Beschreibung",
+    "labelEN": "Perception & Description",
+    "icon": "👁️",
+    "nomen": [],
+    "verben": [
+      { "word": "sehen", "partizipII": "gesehen", "erSieEs": "sieht", "besonderheiten": "Vokalwechsel: e → ie", "beispiel": "Im Hintergrund kann man viele Bücherregale sehen." },
+      { "word": "ansehen", "partizipII": "angesehen", "erSieEs": "sieht an", "besonderheiten": "Trennbar; Vokalwechsel: e → ie", "beispiel": "Sie sehen sich die Notizen auf der Tafel genau an." },
+      { "word": "erkennen", "partizipII": "erkannt", "erSieEs": "erkennt", "beispiel": "Im Hintergrund kann man eine Rolltreppe erkennen." },
+      { "word": "aussehen", "partizipII": "ausgesehen", "erSieEs": "sieht aus", "besonderheiten": "Trennbar", "beispiel": "Das Bürogebäude im Hintergrund sieht sehr modern aus." },
+      { "word": "zeigen", "partizipII": "gezeigt", "erSieEs": "zeigt", "beispiel": "Der Mann in der Mitte zeigt mit dem Finger auf eine Stelle auf dem Blatt." },
+      { "word": "werfen", "partizipII": "geworfen", "erSieEs": "wirft", "besonderheiten": "Vokalwechsel: e → i", "beispiel": "Er wirft einen kurzen Blick in das Schaufenster." }
+    ],
+    "adjektive": [
+      { "word": "weiß", "komparativ": "weißer", "superlativ": "am weißesten", "beispiel": "Die große Tafel im Hintergrund des Bildes ist weiß." },
+      { "word": "schwarz", "komparativ": "schwärzer", "superlativ": "am schwärzesten", "beispiel": "Der Mann auf der rechten Seite trägt eine schwarze Hose." },
+      { "word": "rot", "komparativ": "röter", "superlativ": "am rötesten", "beispiel": "Unter der Frau liegt eine leuchtend rote Decke auf dem Gras." },
+      { "word": "blau", "komparativ": "blauer", "superlativ": "am blausten", "beispiel": "Die Werkbank, an der sie arbeitet, ist leuchtend blau." },
+      { "word": "grün", "komparativ": "grüner", "superlativ": "am grünsten", "beispiel": "Die Jacke des Vaters und die Borsten des Besens sind grün." },
+      { "word": "gelb", "komparativ": "gelber", "superlativ": "am gelbsten", "beispiel": "Am Rand der Decke leuchten gelbe Herbstblätter." },
+      { "word": "braun", "komparativ": "brauner", "superlativ": "am braunsten", "beispiel": "Das Bettgestell ist aus warmem, braunem Holz gefertigt." },
+      { "word": "grau", "komparativ": "grauer", "superlativ": "am grausten", "beispiel": "Der geflieste Fußboden in diesem Zimmer ist dunkelgrau." },
+      { "word": "rosa", "komparativ": "–", "superlativ": "–", "beispiel": "Die Seniorin hat einen hellrosa Pullover an." },
+      { "word": "viel", "komparativ": "mehr", "superlativ": "am meisten", "beispiel": "In dieser Werkstatt gibt es extrem viel Werkzeug." },
+      { "word": "gemeinsam", "komparativ": "–", "superlativ": "–", "beispiel": "Das Bild zeigt eine Familie bei der gemeinsamen Hausarbeit." },
+      { "word": "spät", "komparativ": "später", "superlativ": "am spätesten", "beispiel": "Es sieht aus, als wäre es ein später Nachmittag." }
+    ]
+  }
+]

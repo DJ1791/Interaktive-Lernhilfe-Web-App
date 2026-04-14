@@ -1,0 +1,213 @@
+{
+  "level1": [
+    {
+      "type": "fillInBlank",
+      "id": "p4-l1-01",
+      "img": "P4-01",
+      "before": "„Der Tisch",
+      "after": "groß.“",
+      "correct": "ist",
+      "givenWord": "sein",
+      "hint": "„sein“ im Präsens, 3. Person Singular (er/sie/es) → ist. Struktur: Subjekt + ist + Adjektiv"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l1-02",
+      "img": "P4-02",
+      "before": "„Der Mann",
+      "after": "müde aus.“",
+      "correct": "sieht",
+      "hint": "sieht ... aus (trennbares Verb). Prädikatives Adjektiv bleibt unverändert."
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l1-03",
+      "img": "P4-03",
+      "before": "„Die Kinder",
+      "after": "fröhlich aus.“",
+      "correct": "sehen",
+      "hint": "Plural → sehen ... aus. Adjektiv bleibt unverändert."
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l1-04",
+      "img": "P4-04",
+      "before": "„Das Mädchen hat eine rote Jacke",
+      "after": ".“",
+      "correct": "an",
+      "hint": "hat ... an (trennbares Verb). „eine rote Jacke“ ist schon im Akkusativ dekliniert."
+    }
+  ],
+  "level2": [
+    {
+      "type": "fillInBlank",
+      "id": "p4-l2-01",
+      "img": "P4-02",
+      "before": "„Der Mann trägt",
+      "after": "Hut.“",
+      "correct": "einen braunen",
+      "givenWord": "der braune Hut",
+      "hint": "trägt + Akkusativ. Mask. bestimmt „der braune Hut“ → unbest. Akk. mask. = einen braunen (gemischte Deklination: -en nach ein-)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l2-02",
+      "img": "P4-04",
+      "before": "„Das Mädchen trägt",
+      "after": "Jacke.“",
+      "correct": "eine rote",
+      "givenWord": "die rote Jacke",
+      "hint": "trägt + Akkusativ. Fem. „die rote Jacke“ → unbest. Akk. fem. = eine rote (gemischte Deklination: -e nach eine)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l2-03",
+      "img": "P4-01",
+      "before": "„Auf dem Tisch liegt",
+      "after": "Buch.“",
+      "correct": "ein offenes",
+      "givenWord": "das offene Buch",
+      "hint": "Subjekt (Nominativ) nach „liegt“. Neutr. „das offene Buch“ → unbest. Nom. neutr. = ein offenes (gemischt: -es nach ein)"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p4-l2-04",
+      "img": "P4-05",
+      "question": "Welcher Satz zum Auto auf dem Bild ist grammatisch richtig?",
+      "options": [
+        "Auf der Straße steht ein rotes Auto.",
+        "Auf der Straße steht ein roter Auto.",
+        "Auf der Straße steht einen roten Auto.",
+        "Auf der Straße steht ein roten Auto."
+      ],
+      "correctIndex": 0,
+      "explanation": "„Auto“ ist Neutrum. Subjekt im Nominativ nach „steht“ → ein rotes Auto (gemischte Deklination, -es nach ein)."
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p4-l2-05",
+      "img": "P4-03",
+      "question": "Welche Beschreibung zum Bild ist grammatisch richtig?",
+      "options": [
+        "Die vier Kinder sieht fröhlich aus.",
+        "Die vier Kinder sehen fröhlichen aus.",
+        "Die vier Kinder sehen fröhlich aus.",
+        "Die vier Kinder sind fröhlich aus."
+      ],
+      "correctIndex": 2,
+      "explanation": "Plural → „sehen“ (nicht „sieht“). Prädikatives Adjektiv nach „aussehen“ bleibt unverändert: „fröhlich“ (ohne Endung)."
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p4-l2-06",
+      "img": "P4-04",
+      "wrongSentence": "Das Mädchen trägt einen rote Jacke.",
+      "correctSentence": "Das Mädchen trägt eine rote Jacke.",
+      "errorHint": "„die Jacke“ ist feminin → Akkusativ fem. unbest. = eine rote (nicht einen, das wäre maskulin)."
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p4-l2-07",
+      "img": "P4-02",
+      "wrongSentence": "Der Mann hat ein brauner Hut auf.",
+      "correctSentence": "Der Mann hat einen braunen Hut auf.",
+      "errorHint": "„haben ... auf“ + Akkusativ. Mask.: „der Hut“ → einen braunen Hut (gemischte Deklination: -en nach einen)."
+    }
+  ],
+  "level3": [
+    {
+      "type": "fillInBlank",
+      "id": "p4-l3-01",
+      "img": "P4-01",
+      "before": "„Der Tisch ist aus",
+      "after": "Holz.“",
+      "correct": "dunklem",
+      "givenWord": "dunkel",
+      "hint": "aus + Dativ, ohne Artikel → starke Deklination. Neutr. Dativ = -em: dunkl-em Holz."
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p4-l3-02",
+      "img": "P4-06",
+      "before": "„Die Frau spricht mit",
+      "after": "Mann.“",
+      "correct": "dem alten",
+      "givenWord": "der alte Mann",
+      "hint": "mit + Dativ. Mask. mit bestimmtem Artikel → schwache Deklination. Dat. mask. = dem alt-en Mann."
+    },
+    {
+      "type": "wordOrder",
+      "id": "p4-l3-03",
+      "img": "P4-01",
+      "parts": [
+        {
+          "text": "liegt",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Auf dem dunklen Tisch",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "ein offenes Buch.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "Präpositionalphrase (auf + Dativ: dem dunkl-en Tisch) + Verb + Subjekt (Nom.: ein offen-es Buch)"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p4-l3-04",
+      "img": "P4-03",
+      "parts": [
+        {
+          "text": "spielen",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Die vier fröhlichen Kinder",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "im grünen Garten.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "Subjekt (Nom. Plural mit best. Artikel: die fröhlich-en Kinder) + Verb + Ortsangabe (in + Dativ: im grün-en Garten)"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p4-l3-05",
+      "img": "P4-02",
+      "wrongSentence": "Der Mann trägt ein brauner Hut und eine dunklen Jacke.",
+      "correctSentence": "Der Mann trägt einen braunen Hut und eine dunkle Jacke.",
+      "errorHint": "Zwei Fehler: (1) mask. Akk. → einen braunen Hut (nicht „ein brauner“). (2) fem. Akk. unbest. → eine dunkle Jacke (-e nach eine, nicht -en)."
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p4-l3-06",
+      "img": "P4-03",
+      "wrongSentence": "Das Mädchen mit das gelbe Kleid fängt den roten Ball.",
+      "correctSentence": "Das Mädchen mit dem gelben Kleid fängt den roten Ball.",
+      "errorHint": "mit + Dativ: neutr. „das gelbe Kleid“ → dem gelb-en Kleid (schwache Deklination nach bestimmtem Artikel im Dativ)."
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p4-l3-07",
+      "img": "P4-05",
+      "wrongSentence": "Auf die schmale Straße steht ein kleiner roter Auto.",
+      "correctSentence": "Auf der schmalen Straße steht ein kleines rotes Auto.",
+      "errorHint": "Zwei Fehler: (1) auf + Wo? → Dativ: „die schmale Straße“ → der schmal-en Straße. (2) „Auto“ ist Neutrum: ein klein-es rot-es Auto (nicht mask. „kleiner roter“)."
+    }
+  ]
+}

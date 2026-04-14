@@ -1,0 +1,141 @@
+{
+  "level1": [
+    {
+      "type": "multipleChoice",
+      "id": "p2-l1-01",
+      "img": "P2-01",
+      "question": "„An der Wand ___ ein Gemälde.“",
+      "options": ["liegt", "hängt", "sitzt", "steht"],
+      "correctIndex": 1,
+      "explanation": "Etwas an der Wand → hängt"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p2-l1-02",
+      "img": "P2-04",
+      "question": "„Auf der Bank ___ eine Frau.“",
+      "options": ["steht", "hängt", "sitzt", "liegt"],
+      "correctIndex": 2,
+      "explanation": "Auf einer Bank → sitzt"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p2-l1-03",
+      "img": "P2-01",
+      "question": "„Auf dem Boden ___ ein Teppich.“",
+      "options": ["steht", "sitzt", "hängt", "liegt"],
+      "correctIndex": 3,
+      "explanation": "Flach auf dem Boden → liegt"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p2-l1-04",
+      "img": "P2-01",
+      "before": "„Im Mittelpunkt",
+      "after": "ein großer Tisch.“",
+      "correct": "steht",
+      "givenWord": "stehen",
+      "hint": "Hohes Objekt → steht"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p2-l1-05",
+      "img": "P2-05",
+      "before": "„Links",
+      "after": "ein großer Schrank.“",
+      "correct": "steht",
+      "givenWord": "stehen",
+      "hint": "Hohes Möbelstück → steht"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p2-l1-06",
+      "img": "P2-05",
+      "before": "„Rechts",
+      "after": "ein Fenster.“",
+      "correct": "ist",
+      "givenWord": "sein",
+      "hint": "Fenster: weder stehen noch liegen → ist"
+    }
+  ],
+  "level2": [
+    {
+      "type": "fillInBlank",
+      "id": "p2-l2-01",
+      "img": "P2-01",
+      "before": "„Rechts",
+      "after": "ein Regal.“",
+      "correct": "steht",
+      "hint": "Hohes Möbelstück → steht"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p2-l2-02",
+      "img": "P2-06",
+      "before": "„Im Vordergrund",
+      "after": "eine Straße.“",
+      "correct": "ist",
+      "hint": "Straße: weder stehen noch liegen → ist"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p2-l2-03",
+      "img": "P2-07",
+      "before": "„Im Hintergrund",
+      "after": "ein Dorf.“",
+      "correct": "liegt",
+      "hint": "Dorf/Stadt: liegen → liegt"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p2-l2-04",
+      "img": "P2-01",
+      "question": "„An der Wand ___ ein Gemälde.“ Welches Verb?",
+      "options": ["hängt", "steht", "sitzt", "liegt"],
+      "correctIndex": 0,
+      "explanation": "Bild an der Wand → hängt"
+    }
+  ],
+  "level3": [
+    {
+      "type": "wordOrder",
+      "id": "p2-l3-01",
+      "img": "P2-01",
+      "parts": [
+        { "text": "steht", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "ein Tisch.", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "Im Mittelpunkt", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [2, 0, 1],
+      "hint": "Position + Verb + Subjekt"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p2-l3-02",
+      "img": "P2-04",
+      "wrongSentence": "Auf der Bank steht eine Frau.",
+      "correctSentence": "Auf der Bank sitzt eine Frau.",
+      "errorHint": "Auf einer Bank → sitzt (nicht steht!)"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p2-l3-03",
+      "img": "P2-01",
+      "wrongSentence": "An der Wand sitzt ein Gemälde.",
+      "correctSentence": "An der Wand hängt ein Gemälde.",
+      "errorHint": "Bild an der Wand → hängt"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p2-l3-04",
+      "img": "P2-01",
+      "parts": [
+        { "text": "liegt", "color": "bg-[#ffb870]/10 text-[#ffb870]" },
+        { "text": "Auf dem Boden", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" },
+        { "text": "ein Teppich.", "color": "bg-[#edb1ff]/10 text-[#edb1ff]" }
+      ],
+      "correctOrder": [1, 0, 2],
+      "hint": "Position + Verb + Subjekt"
+    }
+  ]
+}

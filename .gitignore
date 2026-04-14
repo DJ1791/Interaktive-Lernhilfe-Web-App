@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Local-only folders (not part of the app)
+/EXPO-APP_FILES/
+/Bilder/
+
+# Claude Code local state
+/.claude/
+
+# Node dependencies (will be installed via `npm install`)
+**/node_modules/
+
+# Expo
+**/.expo/
+**/dist/
+**/web-build/
+**/expo-env.d.ts
+
+# Logs & caches
+**/npm-debug.*
+**/yarn-debug.*
+**/yarn-error.*
+**/.metro-health-check*
+*.tsbuildinfo
+
+# Environment files
+**/.env*.local
+
+# iOS / Android native folders (managed by Expo)
+**/ios/
+**/android/

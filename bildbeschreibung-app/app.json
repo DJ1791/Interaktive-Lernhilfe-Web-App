@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "DTZ Bildbeschreibung",
+    "slug": "dtz-bildbeschreibung",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "dtz-bildbeschreibung",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#111125"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dtz.bildbeschreibung"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#111125"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.dtz.bildbeschreibung"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}

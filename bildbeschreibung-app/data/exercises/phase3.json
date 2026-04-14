@@ -1,0 +1,287 @@
+{
+  "level1": [
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-01",
+      "img": "P3-01",
+      "before": "„Auf",
+      "after": "Tisch liegt ein Buch.“",
+      "correct": "dem",
+      "hint": "der Tisch → Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-02",
+      "img": "P3-02",
+      "before": "„Neben",
+      "after": "Bank steht ein Baum.“",
+      "correct": "der",
+      "hint": "die Bank → Dativ = der"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-03",
+      "img": "P3-03",
+      "before": "„Unter",
+      "after": "Bett liegt eine Katze.“",
+      "correct": "dem",
+      "hint": "das Bett → Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-04",
+      "img": "P3-04",
+      "before": "„Zwischen",
+      "after": "Autos steht ein Mann.“",
+      "correct": "den",
+      "hint": "die Autos (Plural) → Dativ = den"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-05",
+      "img": "P3-05",
+      "before": "„An",
+      "after": "Wand hängt ein Bild.“",
+      "correct": "der",
+      "hint": "die Wand → Dativ = der"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-06",
+      "img": "P3-06",
+      "before": "„Vor",
+      "after": "Haus parkt ein Auto.“",
+      "correct": "dem",
+      "hint": "das Haus → Dativ = dem"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l1-07",
+      "img": "P3-07",
+      "before": "„Unter",
+      "after": "Baum sitzt ein Mann.“",
+      "correct": "dem",
+      "hint": "der Baum → Dativ = dem"
+    }
+  ],
+  "level2": [
+    {
+      "type": "multipleChoice",
+      "id": "p3-l2-01",
+      "img": "P3-01",
+      "question": "„Das Buch liegt ___ dem Tisch.“ Welche Präposition passt zum Bild?",
+      "options": [
+        "unter",
+        "auf",
+        "neben",
+        "vor"
+      ],
+      "correctIndex": 1,
+      "explanation": "Das Buch liegt OBEN auf dem Tisch → Präposition „auf“"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p3-l2-02",
+      "img": "P3-03",
+      "question": "„Die Katze liegt ___ dem Bett.“ Welche Präposition passt zum Bild?",
+      "options": [
+        "auf",
+        "neben",
+        "unter",
+        "zwischen"
+      ],
+      "correctIndex": 2,
+      "explanation": "Die Katze liegt UNTERHALB → Präposition „unter“"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p3-l2-03",
+      "img": "P3-05",
+      "question": "„Das Bild hängt ___ der Wand.“ Welche Präposition passt?",
+      "options": [
+        "auf",
+        "in",
+        "an",
+        "zu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bilder hängen IMMER an der Wand → Präposition „an“"
+    },
+    {
+      "type": "multipleChoice",
+      "id": "p3-l2-04",
+      "img": "P3-04",
+      "question": "„Der Mann steht ___ den zwei Autos.“ Welche Präposition passt zum Bild?",
+      "options": [
+        "hinter",
+        "auf",
+        "neben",
+        "zwischen"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Mann ist MITTENDRIN zwischen zwei Objekten → „zwischen + Dativ Plural (den)“"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l2-05",
+      "img": "P3-06",
+      "before": "„Das rote Auto parkt",
+      "after": "dem Haus.“",
+      "correct": "vor",
+      "givenWord": "vor / hinter / neben",
+      "hint": "Das Auto steht VORNE vor dem Haus (Eingangsseite)"
+    },
+    {
+      "type": "fillInBlank",
+      "id": "p3-l2-06",
+      "img": "P3-02",
+      "before": "„Eine Bank steht",
+      "after": "dem Baum.“",
+      "correct": "neben",
+      "givenWord": "neben / vor / unter",
+      "hint": "Die Bank und der Baum stehen NEBENEINANDER"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p3-l2-07",
+      "img": "P3-03",
+      "wrongSentence": "Die Katze liegt unter das Bett.",
+      "correctSentence": "Die Katze liegt unter dem Bett.",
+      "errorHint": "unter + WO? → Dativ (Position, keine Bewegung): das Bett → dem Bett"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p3-l2-08",
+      "img": "P3-01",
+      "wrongSentence": "Das Buch liegt auf den Tisch.",
+      "correctSentence": "Das Buch liegt auf dem Tisch.",
+      "errorHint": "auf + WO? → Dativ: der Tisch → dem Tisch (nicht „den“, das wäre Akkusativ)"
+    }
+  ],
+  "level3": [
+    {
+      "type": "wordOrder",
+      "id": "p3-l3-01",
+      "img": "P3-01",
+      "parts": [
+        {
+          "text": "liegt",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Auf dem Tisch",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "ein dickes Buch.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "Präpositionalphrase + Verb + Subjekt (Inversion)"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p3-l3-02",
+      "img": "P3-03",
+      "parts": [
+        {
+          "text": "liegt",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Unter dem Bett",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "eine kleine Katze.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "Position + Verb + Subjekt mit Adjektiv"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p3-l3-03",
+      "img": "P3-04",
+      "parts": [
+        {
+          "text": "steht",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Zwischen den zwei Autos",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "ein Mann mit einer Tüte.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "zwischen + Dativ Plural (den); Präpositionalphrase + Verb + Subjekt"
+    },
+    {
+      "type": "wordOrder",
+      "id": "p3-l3-04",
+      "img": "P3-06",
+      "parts": [
+        {
+          "text": "parkt",
+          "color": "bg-[#ffb870]/10 text-[#ffb870]"
+        },
+        {
+          "text": "Vor dem Haus",
+          "color": "bg-[#edb1ff]/10 text-[#edb1ff]"
+        },
+        {
+          "text": "ein rotes Auto.",
+          "color": "bg-[#ffb1c5]/10 text-[#ffb1c5]"
+        }
+      ],
+      "correctOrder": [
+        1,
+        0,
+        2
+      ],
+      "hint": "Präpositionalphrase (Dativ) + Verb + Subjekt; Adjektiv „rot“ + Endung „-es“ (Neutrum Nom.)"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p3-l3-05",
+      "img": "P3-02",
+      "wrongSentence": "Neben den Baum steht eine alte Holzbank.",
+      "correctSentence": "Neben dem Baum steht eine alte Holzbank.",
+      "errorHint": "neben + WO? → Dativ (Position): der Baum → dem Baum (den wäre Akk./Richtung)"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p3-l3-06",
+      "img": "P3-07",
+      "wrongSentence": "Ein Mann sitzt unter einen großen Baum.",
+      "correctSentence": "Ein Mann sitzt unter einem großen Baum.",
+      "errorHint": "unter + WO? → Dativ: ein Baum (mask.) → einem; Adjektivendung „-en“ nach unbestimmtem Artikel im Dativ"
+    },
+    {
+      "type": "errorCorrection",
+      "id": "p3-l3-07",
+      "img": "P3-05",
+      "wrongSentence": "An der Wand hängt ein großen Bild.",
+      "correctSentence": "An der Wand hängt ein großes Bild.",
+      "errorHint": "Subjekt „Bild“ = Nominativ (Neutrum) → unbestimmter Artikel „ein“ + Adjektivendung „-es“: ein großes Bild"
+    }
+  ]
+}
